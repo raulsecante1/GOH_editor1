@@ -8,5 +8,5 @@ step 2 activate it
 step 3 install the necessary extensions
     pip install -r requirements.txt
 step 4 run the code
-    python frontend.py
+    python front_end.py
 </pre>
