@@ -1,0 +1,18 @@
+{
+  "squad_officer_kubel_con": {
+    "Cp": 7
+  },
+  "squad_officer_250_3_con": {
+    "Cp": 9
+  },
+  "squad_recon_motor_con":{
+    "Cp": 5
+  },
+  "squad_regular_motor_con":{
+    "Cp": 12
+  },
+  "squad_recon_armor_con":{
+    "Cp": 5
+  }
+
+}
