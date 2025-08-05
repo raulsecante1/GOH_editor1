@@ -9,7 +9,7 @@ from PySide6.QtWidgets import (
 from PySide6.QtGui import QPixmap, QMouseEvent, QCursor
 from PySide6.QtCore import Qt, QPoint
 
-base_img_dir = "./portrait_squad"
+#base_img_dir = "./portrait_squad"
 
 class DraggableLabel(QLabel):
     def __init__(self, unit_data, pixmap, controller, parent=None):
@@ -94,17 +94,34 @@ class UnitEditor(QWidget):
 
 
 def load_pic(unit_id, fallback_size=(100, 100)):
+    '''
+    Used to load the portraits, since there are of png and tga
+    If no image found, returns a gray QPixmap as fallback.
+
+    Args:
+        unit_id (str): portrait´s name
+    Returns:
+        path (QPixmap): the QPixmap of the image
+    '''
     extensions = [".png", ".tga"]
+    base_dir = resource_path("portrait_squad")
     for ext in extensions:
-        path = os.path.join(base_img_dir, f"{unit_id}{ext}")
+        path = os.path.join(base_dir, f"{unit_id}{ext}")
         if os.path.exists(path):
-            return path
-    
-    # fallback if all fail
-    print(f"no image found: {unit_id}")
+            pixmap = QPixmap(path)
+            if not pixmap.isNull():
+                return pixmap
+
+    #fallback pixmap if image not found or failed to load
+    print(f"[DEBUG] no image found or failed to load: {unit_id}")
     fallback = QPixmap(*fallback_size)
     fallback.fill(Qt.GlobalColor.darkGray)
-    return fallback   
+    return fallback
+
+def resource_path(relative_path):
+    #Get absolute path to resource, used for PyInstaller
+    base_path = getattr(sys, '_MEIPASS', os.path.abspath("."))
+    return os.path.join(base_path, relative_path)
 
 def main():
     app = QApplication(sys.argv)
@@ -128,8 +145,7 @@ def main():
     lines, pre, nxt = back_end.read_armory(scn_path)
     #save_changes(save_path)
 
-    units = [{'id': line[0], 'stages': line[1], 'pixmap': QPixmap(load_pic(line[0])), 'full': line} for line in lines]
-
+    units = [{'id': line[0], 'stages': line[1], 'pixmap': load_pic(line[0]), 'full': line} for line in lines]
 
     editor = UnitEditor(units)
     editor.pre = pre
