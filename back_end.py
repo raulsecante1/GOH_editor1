@@ -131,7 +131,7 @@ def modify_campaign_scn(scn_path, ordered_units, pre_con, nxt_con, block_name="C
     # Replace original block
     new_content = pre_con + new_block + nxt_con
 
-    with open(scn_path, "w", encoding="utf-8") as f:
+    with open(scn_path, "w", encoding="utf-8", newline='') as f:
         f.write(new_content)
 
     print("CampaignSquads modified and saved.")
@@ -149,5 +149,3 @@ def save_changes(path, mod_path, status_path):
         new_save.write(mod_path, arcname="campaign.scn")
         new_save.write(status_path, arcname="status")
     print("changes saved")
-
-
