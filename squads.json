@@ -1,18 +1,4910 @@
 {
-  "squad_officer_kubel_con": {
-    "Cp": 7
-  },
-  "squad_officer_250_3_con": {
-    "Cp": 9
-  },
-  "squad_recon_motor_con":{
-    "Cp": 5
-  },
-  "squad_regular_motor_con":{
-    "Cp": 12
-  },
-  "squad_recon_armor_con":{
-    "Cp": 5
-  }
-
+    "fi156": {
+        "name_cn": "Fi-156",
+        "name_en": "Fi-156",
+        "name_es": "Fi-156",
+        "Cp": 0
+    },
+    "il2_mod42": {
+        "name_cn": "伊尔-2 M1942",
+        "name_en": "IL-2 M1942",
+        "name_es": "IL-2 M1942",
+        "Cp": 0
+    },
+    "po2": {
+        "name_cn": "波-2",
+        "name_en": "U-2",
+        "name_es": "U-2",
+        "Cp": 0
+    },
+    "conquest_po2": {
+        "name_cn": "波-2 侦察机",
+        "name_en": "U-2 Recon",
+        "name_es": "U-2 Recon",
+        "Cp": 0
+    },
+    "conquest_yak1": {
+        "name_cn": "雅克-1 50kg航弹",
+        "name_en": "Yak-1 50kg Bomb",
+        "name_es": "Yak-1 50kg Bomb",
+        "Cp": 0
+    },
+    "conquest_bf109": {
+        "name_cn": "Bf-109 50kg航弹",
+        "name_en": "Bf-109 50kg Bomb",
+        "name_es": "Bf-109 50kg Bomb",
+        "Cp": 0
+    },
+    "conquest_fi156": {
+        "name_cn": "Fi-156 侦察机",
+        "name_en": "Fi-156 Recon",
+        "name_es": "Fi-156 Recon",
+        "Cp": 0
+    },
+    "squad_partisan(rus)": {
+        "name_cn": "<c(A5A095)>( I )</c> 游击队",
+        "name_en": "<c(A5A095)>( I )</c> Partisans",
+        "name_es": "<c(A5A095)>( I )</c> Partisans",
+        "Cp": 0
+    },
+    "squad_border(rus)": {
+        "name_cn": "<c(A5A095)>I</c> 边防军小队",
+        "name_en": "<c(A5A095)>I</c> Boarder Guards squad",
+        "name_es": "<c(A5A095)>I</c> Boarder Guards squad",
+        "Cp": 0
+    },
+    "squad_basic(rus)": {
+        "name_cn": "轻装步兵",
+        "name_en": "Light Inf.",
+        "name_es": "Light Inf.",
+        "Cp": 0
+    },
+    "squad_heavy(rus)": {
+        "name_cn": "重装步兵",
+        "name_en": "Heavy Inf.",
+        "name_es": "Heavy Inf.",
+        "Cp": 0
+    },
+    "squad_guardsrifle(rus)": {
+        "name_cn": "<c(A5A095)>( III )</c> 近卫步枪班",
+        "name_en": "<c(A5A095)>( III )</c> Guards Rifle squad",
+        "name_es": "<c(A5A095)>( III )</c> Guards Rifle squad",
+        "Cp": 0
+    },
+    "squad_rifleunit(rus)": {
+        "name_cn": "<c(A5A095)>( II )</c> 步枪班",
+        "name_en": "<c(A5A095)>( II )</c> Rifle squad",
+        "name_es": "<c(A5A095)>( II )</c> Rifle squad",
+        "Cp": 0
+    },
+    "squad_marines(rus)": {
+        "name_cn": "<c(A5A095)>( IV )</c> 黑海海军步兵",
+        "name_en": "<c(A5A095)>( IV )</c> Black sea Marine squad",
+        "name_es": "<c(A5A095)>( IV )</c> Black sea Marine squad",
+        "Cp": 0
+    },
+    "squad_assaultsappers(rus)": {
+        "name_cn": "突击工兵",
+        "name_en": "Assault Sappers",
+        "name_es": "Assault Sappers",
+        "Cp": 0
+    },
+    "squad_penal(rus)": {
+        "name_cn": "惩戒营",
+        "name_en": "Penal Battalion",
+        "name_es": "Penal Battalion",
+        "Cp": 0
+    },
+    "squad_mountainrifles(rus)": {
+        "name_cn": "山地步兵",
+        "name_en": "Mountain Rifles",
+        "name_es": "Mountain Rifles",
+        "Cp": 0
+    },
+    "squad_rifle_motorised": {
+        "name_cn": "摩托化步枪班",
+        "name_en": "Motorised rifle squad",
+        "name_es": "Motorised rifle squad",
+        "Cp": 0
+    },
+    "squad_paratrooper(rus)": {
+        "name_cn": "伞兵班",
+        "name_en": "Paratroopers",
+        "name_es": "Paratroopers",
+        "Cp": 0
+    },
+    "squad_spetsnaz(rus)": {
+        "name_cn": "<c(A5A095)>IV</c> 特战侦查队",
+        "name_en": "<c(A5A095)>IV</c> Osnaz Unit",
+        "name_es": "<c(A5A095)>IV</c> Osnaz Unit",
+        "Cp": 0
+    },
+    "conquest_il2": {
+        "name_cn": "伊尔-2 250kg航弹",
+        "name_en": "IL-2 250kg Bomb",
+        "name_es": "IL-2 250kg Bomb",
+        "Cp": 0
+    },
+    "single_at(rus)": {
+        "name_cn": "反坦克小组",
+        "name_en": "AT Detach.",
+        "name_es": "AT Detach.",
+        "Cp": 0
+    },
+    "single_tankman(rus)": {
+        "name_cn": "坦克车组",
+        "name_en": "Tank Crew",
+        "name_es": "Tank Crew",
+        "Cp": 0
+    },
+    "single_auxiliary(rus)": {
+        "name_cn": "后备小组",
+        "name_en": "Auxiliary Detach.",
+        "name_es": "Auxiliary Detach.",
+        "Cp": 0
+    },
+    "single_medic(rus)": {
+        "name_cn": "医疗兵",
+        "name_en": "Medic",
+        "name_es": "Medic",
+        "Cp": 0
+    },
+    "single_engineer(rus)": {
+        "name_cn": "野战工程兵",
+        "name_en": "Field Engineer",
+        "name_es": "Field Engineer",
+        "Cp": 0
+    },
+    "single_sniper(rus)": {
+        "name_cn": "狙击手",
+        "name_en": "Sniper",
+        "name_es": "Sniper",
+        "Cp": 0
+    },
+    "single_ap_miner(rus)": {
+        "name_cn": "反人员地雷工兵",
+        "name_en": "AP Miner",
+        "name_es": "AP Miner",
+        "Cp": 0
+    },
+    "single_at_miner(rus)": {
+        "name_cn": "反坦克地雷工兵",
+        "name_en": "AT Miner",
+        "name_es": "AT Miner",
+        "Cp": 0
+    },
+    "single_riflegrenade(rus)": {
+        "name_cn": "枪榴弹兵",
+        "name_en": "Gren. Riflemen",
+        "name_es": "Gren. Riflemen",
+        "Cp": 0
+    },
+    "single_flamer(rus)": {
+        "name_cn": "喷火兵",
+        "name_en": "Flamer",
+        "name_es": "Flamer",
+        "Cp": 0
+    },
+    "squad_light(ger)": {
+        "name_cn": "轻装步兵",
+        "name_en": "Light Inf.",
+        "name_es": "Light Inf.",
+        "Cp": 0
+    },
+    "squad_regular(ger)": {
+        "name_cn": "<c(A5A095)>( II )</c> 步枪班",
+        "name_en": "<c(A5A095)>( II )</c> Rifle squad",
+        "name_es": "<c(A5A095)>( II )</c> Rifle squad",
+        "Cp": 0
+    },
+    "squad_regular_motorised(ger)": {
+        "name_cn": "Sd.Kfz.251摩托化步兵",
+        "name_en": "Sd.Kfz.251 + Inf.",
+        "name_es": "Sd.Kfz.251 + Inf.",
+        "Cp": 0
+    },
+    "squad_regular_motorised": {
+        "name_cn": "Sd.Kfz.251摩托化步兵",
+        "name_en": "Sd.Kfz.251 + Inf.",
+        "name_es": "Sd.Kfz.251 + Inf.",
+        "Cp": 0
+    },
+    "squad_grenadiere(ger)": {
+        "name_cn": "掷弾兵",
+        "name_en": "Grenadiere",
+        "name_es": "Grenadiere",
+        "Cp": 0
+    },
+    "squad_brandenburger(ger)": {
+        "name_cn": "勃兰登堡部队",
+        "name_en": "Brandenburger",
+        "name_es": "Brandenburger",
+        "Cp": 0
+    },
+    "squad_brandenburger_early(ger)": {
+        "name_cn": "勃兰登堡部队",
+        "name_en": "Brandenburger",
+        "name_es": "Brandenburger",
+        "Cp": 0
+    },
+    "squad_brandenburger_mid(ger)": {
+        "name_cn": "勃兰登堡部队",
+        "name_en": "Brandenburger",
+        "name_es": "Brandenburger",
+        "Cp": 0
+    },
+    "squad_osttruppen(ger)": {
+        "name_cn": "东方军团步兵",
+        "name_en": "Osttruppen",
+        "name_es": "Osttruppen",
+        "Cp": 0
+    },
+    "squad_stosstrupp(ger)": {
+        "name_cn": "突击队",
+        "name_en": "Stosstrupp",
+        "name_es": "Stosstrupp",
+        "Cp": 0
+    },
+    "squad_stosstrupp": {
+        "name_cn": "突击队",
+        "name_en": "Stosstrupp",
+        "name_es": "Stosstrupp",
+        "Cp": 0
+    },
+    "squad_blau(ger)": {
+        "name_cn": "蓝色师团步兵",
+        "name_en": "Blau Division",
+        "name_es": "Blau Division",
+        "Cp": 0
+    },
+    "squad_fallschirmjaeger(ger)": {
+        "name_cn": "空降猎兵",
+        "name_en": "Fallschirmjäger",
+        "name_es": "Fallschirmjäger",
+        "Cp": 0
+    },
+    "squad_fallschirmjaeger_late(ger)": {
+        "name_cn": "空降猎兵",
+        "name_en": "Fallschirmjäger",
+        "name_es": "Fallschirmjäger",
+        "Cp": 0
+    },
+    "squad_luftwaffe(ger)": {
+        "name_cn": "空军野战师小队",
+        "name_en": "LW. field unit",
+        "name_es": "LW. field unit",
+        "Cp": 0
+    },
+    "squad_gebirgsjaeger(ger)": {
+        "name_cn": "山地猎兵",
+        "name_en": "Gebirgsjäger",
+        "name_es": "Gebirgsjäger",
+        "Cp": 0
+    },
+    "squad_pionier(ger)": {
+        "name_cn": "<c(A5A095)>( II )</c> 工兵班",
+        "name_en": "<c(A5A095)>( II )</c> Pionier squad",
+        "name_es": "<c(A5A095)>( II )</c> Pionier squad",
+        "Cp": 0
+    },
+    "squad_pz_pio_302_con(ger)": {
+        "name_cn": "装甲工兵班(配备歌利亚302型)",
+        "name_en": "Pz-Pionier team (Goliath)",
+        "name_es": "Pz-Pionier team (Goliath)",
+        "Cp": 0
+    },
+    "squad_pz_pio_303b_con(ger)": {
+        "name_cn": "装甲工兵班(配备歌利亚303B型)",
+        "name_en": "Pz-Pionier team (Goliath)",
+        "name_es": "Pz-Pionier team (Goliath)",
+        "Cp": 0
+    },
+    "squad_sturmpionier(ger)": {
+        "name_cn": "突击工兵",
+        "name_en": "Sturmpioniere",
+        "name_es": "Sturmpioniere",
+        "Cp": 0
+    },
+    "squad_strafbatallion(ger)": {
+        "name_cn": "<c(A5A095)>( I )</c> 缓刑营小队",
+        "name_en": "<c(A5A095)>( I )</c> Strafbatallion squad",
+        "name_es": "<c(A5A095)>( I )</c> Strafbatallion squad",
+        "Cp": 0
+    },
+    "squad_volkssturm(ger)": {
+        "name_cn": "人民冲锋队",
+        "name_en": "Volkssturm",
+        "name_es": "Volkssturm",
+        "Cp": 0
+    },
+    "conquest_bf110": {
+        "name_cn": "Bf-110 空袭",
+        "name_en": "Bf-110 Airstrike",
+        "name_es": "Bf-110 Airstrike",
+        "Cp": 0
+    },
+    "single_riflegrenade(ger)": {
+        "name_cn": "枪榴弹兵",
+        "name_en": "Gren. Riflemen",
+        "name_es": "Gren. Riflemen",
+        "Cp": 0
+    },
+    "single_at_miner(ger)": {
+        "name_cn": "反坦克地雷工兵",
+        "name_en": "AT Miner",
+        "name_es": "AT Miner",
+        "Cp": 0
+    },
+    "single_tankman(ger)": {
+        "name_cn": "坦克车组",
+        "name_en": "Tank Crew",
+        "name_es": "Tank Crew",
+        "Cp": 0
+    },
+    "single_medic(ger)": {
+        "name_cn": "医疗兵",
+        "name_en": "Medic",
+        "name_es": "Medic",
+        "Cp": 0
+    },
+    "single_mg(ger)": {
+        "name_cn": "机枪小组",
+        "name_en": "MG Detach.",
+        "name_es": "MG Detach.",
+        "Cp": 0
+    },
+    "single_ap_miner(ger)": {
+        "name_cn": "反人员地雷工兵",
+        "name_en": "AP Miner",
+        "name_es": "AP Miner",
+        "Cp": 0
+    },
+    "single_engineer(ger)": {
+        "name_cn": "野战工程兵",
+        "name_en": "Field Engineer",
+        "name_es": "Field Engineer",
+        "Cp": 0
+    },
+    "single_at(ger)": {
+        "name_cn": "反坦克小组",
+        "name_en": "AT Detach.",
+        "name_es": "AT Detach.",
+        "Cp": 0
+    },
+    "single_flamer(ger)": {
+        "name_cn": "喷火兵",
+        "name_en": "Flamer",
+        "name_es": "Flamer",
+        "Cp": 0
+    },
+    "single_sniper(ger)": {
+        "name_cn": "狙击手",
+        "name_en": "Sniper",
+        "name_es": "Sniper",
+        "Cp": 0
+    },
+    "squad_civil_guard_early_con(fin)": {
+        "name_cn": "<c(A5A095)>(1)</c> 国民警卫队",
+        "name_en": "<c(A5A095)>(1)</c> Civil Guard Squad",
+        "name_es": "<c(A5A095)>(1)</c> Civil Guard Squad",
+        "Cp": 0
+    },
+    "squad_rifle_early_con(fin)": {
+        "name_cn": "<c(A5A095)>(2)</c> 步枪班(无轻机枪)",
+        "name_en": "<c(A5A095)>(2)</c> Rifle Squad",
+        "name_es": "<c(A5A095)>(2)</c> Rifle Squad",
+        "Cp": 0
+    },
+    "squad_rifle_lmg_early_con(fin)": {
+        "name_cn": "<c(A5A095)>(2)</c> 轻机枪班",
+        "name_en": "<c(A5A095)>(2)</c> LMG Squad",
+        "name_es": "<c(A5A095)>(2)</c> LMG Squad",
+        "Cp": 0
+    },
+    "squad_border_guard_early_con(fin)": {
+        "name_cn": "<c(A5A095)>(3)</c> 边防军小队",
+        "name_en": "<c(A5A095)>(3)</c> Border Guard Squad",
+        "name_es": "<c(A5A095)>(3)</c> Border Guard Squad",
+        "Cp": 0
+    },
+    "white_death_con(fin)": {
+        "name_cn": "<c(A5A095)>(4)</c> 白色死神",
+        "name_en": "<c(A5A095)>(4)</c> Elite Sniper",
+        "name_es": "<c(A5A095)>(4)</c> Elite Sniper",
+        "Cp": 0
+    },
+    "single_at(fin)": {
+        "name_cn": "反坦克小组",
+        "name_en": "AT Detach.",
+        "name_es": "AT Detach.",
+        "Cp": 0
+    },
+    "single_at_miner(fin)": {
+        "name_cn": "反坦克地雷工兵",
+        "name_en": "AT Miners",
+        "name_es": "AT Miners",
+        "Cp": 0
+    },
+    "single_ap_miner(fin)": {
+        "name_cn": "反人员地雷工兵",
+        "name_en": "AP Miners",
+        "name_es": "AP Miners",
+        "Cp": 0
+    },
+    "single_engineer(fin)": {
+        "name_cn": "野战工程兵",
+        "name_en": "Field Engineers",
+        "name_es": "Field Engineers",
+        "Cp": 0
+    },
+    "single_flamer(fin)": {
+        "name_cn": "喷火兵",
+        "name_en": "Flamethrower",
+        "name_es": "Flamethrower",
+        "Cp": 0
+    },
+    "single_tankman(fin)": {
+        "name_cn": "坦克车组",
+        "name_en": "Tank crew",
+        "name_es": "Tank crew",
+        "Cp": 0
+    },
+    "single_medic(fin)": {
+        "name_cn": "医疗兵",
+        "name_en": "Medic",
+        "name_es": "Medic",
+        "Cp": 0
+    },
+    "single_sniper(fin)": {
+        "name_cn": "狙击手",
+        "name_en": "Sniper",
+        "name_es": "Sniper",
+        "Cp": 0
+    },
+    "single_officer(fin)": {
+        "name_cn": "军官",
+        "name_en": "Officer",
+        "name_es": "Officer",
+        "Cp": 0
+    },
+    "squad_reserves_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(1)</c> 后备步枪班",
+        "name_en": "<c(A5A095)>(1)</c> Reserve Rifle Squad",
+        "name_es": "<c(A5A095)>(1)</c> Reserve Rifle Squad",
+        "Cp": 0
+    },
+    "squad_scout_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(2)</c> 侦察小组",
+        "name_en": "<c(A5A095)>(2)</c> Scout Section",
+        "name_es": "<c(A5A095)>(2)</c> Scout Section",
+        "Cp": 0
+    },
+    "squad_rifle_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(2)</c> 步枪班",
+        "name_en": "<c(A5A095)>(2)</c> Rifle Squad",
+        "name_es": "<c(A5A095)>(2)</c> Rifle Squad",
+        "Cp": 0
+    },
+    "squad_jag_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(4)</c> 猎兵班",
+        "name_en": "<c(A5A095)>(4)</c> Jaeger Squad",
+        "name_es": "<c(A5A095)>(4)</c> Jaeger Squad",
+        "Cp": 0
+    },
+    "squad_border_jag_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(4)</c> 边防猎兵班",
+        "name_en": "<c(A5A095)>(4)</c> Border Jaeger Squad",
+        "name_es": "<c(A5A095)>(4)</c> Border Jaeger Squad",
+        "Cp": 0
+    },
+    "squad_engineer_mid_con(fin)": {
+        "name_cn": "工程兵班",
+        "name_en": "Engineer Squad",
+        "name_es": "Engineer Squad",
+        "Cp": 0
+    },
+    "squad_assault_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(2)</c> 突击小队",
+        "name_en": "<c(A5A095)>(2)</c> Assault Squad",
+        "name_es": "<c(A5A095)>(2)</c> Assault Squad",
+        "Cp": 0
+    },
+    "squad_sissi_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(4)</c> 芬兰游击兵",
+        "name_en": "<c(A5A095)>(4)</c> Sissi Commandos",
+        "name_es": "<c(A5A095)>(4)</c> Sissi Commandos",
+        "Cp": 0
+    },
+    "squad_heavy_engineer_mid_con(fin)": {
+        "name_cn": "重装工程兵",
+        "name_en": "Heavy Engineers",
+        "name_es": "Heavy Engineers",
+        "Cp": 0
+    },
+    "single_at_pzs_late_con(fin)": {
+        "name_cn": "坦克杀手小组",
+        "name_en": "Panzerschreck Team",
+        "name_es": "Panzerschreck Team",
+        "Cp": 0
+    },
+    "squad_at_late_con(fin)": {
+        "name_cn": "反坦克小组",
+        "name_en": "Anti-Tank Squad",
+        "name_es": "Anti-Tank Squad",
+        "Cp": 0
+    },
+    "team_officer_con(fin)": {
+        "name_cn": "指挥小组",
+        "name_en": "Command Team",
+        "name_es": "Command Team",
+        "Cp": 0
+    },
+    "squad_officer_con(fin)": {
+        "name_cn": "指挥小组",
+        "name_en": "Command Squad",
+        "name_es": "Command Squad",
+        "Cp": 0
+    },
+    "conquest_blenheim": {
+        "name_cn": "布伦海姆 250kg航弹",
+        "name_en": "Blenheim 250kg Bomb",
+        "name_es": "Blenheim 250kg Bomb",
+        "Cp": 0
+    },
+    "conquest_blenheim_light": {
+        "name_cn": "布伦海姆 50kg航弹",
+        "name_en": "Blenheim 50kg Bomb",
+        "name_es": "Blenheim 50kg Bomb",
+        "Cp": 0
+    },
+    "conquest_blenheim_recon": {
+        "name_cn": "布伦海姆 侦察机",
+        "name_en": "Blenheim Recon",
+        "name_es": "Blenheim Recon",
+        "Cp": 0
+    },
+    "squad_officer_con(ger)": {
+        "name_cn": "指挥组",
+        "name_en": "Command squad",
+        "name_es": "Command squad",
+        "Cp": 0
+    },
+    "squad_officer_kubel_con": {
+        "name_cn": "Kfz. 1(指挥车)",
+        "name_en": "Kfz. 1 (Command)",
+        "name_es": "Kfz. 1 (Command)",
+        "Cp": 0
+    },
+    "squad_officer_250_3_con": {
+        "name_cn": "Sd.Kfz 250/3(指挥车)",
+        "name_en": "Sd.Kfz 250/3 (Command)",
+        "name_es": "Sd.Kfz 250/3 (Command)",
+        "Cp": 0
+    },
+    "squad_officer_con(rus)": {
+        "name_cn": "指挥组",
+        "name_en": "Command squad",
+        "name_es": "Command squad",
+        "Cp": 0
+    },
+    "squad_officer_gaz_con": {
+        "name_cn": "GAZ-67(指挥车)",
+        "name_en": "GAZ-67 (Command)",
+        "name_es": "GAZ-67 (Command)",
+        "Cp": 0
+    },
+    "squad_partisan_con(rus)": {
+        "name_cn": "<c(A5A095)>I</c> 游击队",
+        "name_en": "<c(A5A095)>I</c> Partisan squad",
+        "name_es": "<c(A5A095)>I</c> Partisan squad",
+        "Cp": 0
+    },
+    "squad_penal_con(rus)": {
+        "name_cn": "<c(A5A095)>I</c> 惩戒营",
+        "name_en": "<c(A5A095)>I</c> Penal batallion squad",
+        "name_es": "<c(A5A095)>I</c> Penal batallion squad",
+        "Cp": 0
+    },
+    "squad_conscripts_con(rus)": {
+        "name_cn": "<c(A5A095)>I</c> 征召兵步枪班",
+        "name_en": "<c(A5A095)>I</c> Conscript Rifle squad",
+        "name_es": "<c(A5A095)>I</c> Conscript Rifle squad",
+        "Cp": 0
+    },
+    "squad_recon_con(rus)": {
+        "name_cn": "<c(A5A095)>II</c> 侦察班",
+        "name_en": "<c(A5A095)>II</c> Recon squad",
+        "name_es": "<c(A5A095)>II</c> Recon squad",
+        "Cp": 0
+    },
+    "squad_at_rifle_con(rus)": {
+        "name_cn": "<c(A5A095)>II</c> 反坦克步枪班",
+        "name_en": "<c(A5A095)>II</c> AT rifle squad",
+        "name_es": "<c(A5A095)>II</c> AT rifle squad",
+        "Cp": 0
+    },
+    "squad_rifleunit_alt_con(rus)": {
+        "name_cn": "<c(A5A095)>II</c> 步枪班(无轻机枪)",
+        "name_en": "<c(A5A095)>II</c> Rifle squad (No LMG)",
+        "name_es": "<c(A5A095)>II</c> Rifle squad (No LMG)",
+        "Cp": 0
+    },
+    "squad_rifleunit_con(rus)": {
+        "name_cn": "<c(A5A095)>II</c> 步枪班",
+        "name_en": "<c(A5A095)>II</c> Rifle squad",
+        "name_es": "<c(A5A095)>II</c> Rifle squad",
+        "Cp": 0
+    },
+    "squad_rifle_motorised_con": {
+        "name_cn": "<c(A5A095)>II</c> 摩托化步枪班",
+        "name_en": "<c(A5A095)>II</c> Motorized Rifle squad",
+        "name_es": "<c(A5A095)>II</c> Motorized Rifle squad",
+        "Cp": 0
+    },
+    "squad_smg_con(rus)": {
+        "name_cn": "<c(A5A095)>II</c> 冲锋枪班",
+        "name_en": "<c(A5A095)>II</c> SMG squad",
+        "name_es": "<c(A5A095)>II</c> SMG squad",
+        "Cp": 0
+    },
+    "squad_mountainrifles_con(rus)": {
+        "name_cn": "<c(A5A095)>III</c> 山地步枪班",
+        "name_en": "<c(A5A095)>III</c> Mountain Rifle squad",
+        "name_es": "<c(A5A095)>III</c> Mountain Rifle squad",
+        "Cp": 0
+    },
+    "squad_marines_con(rus)": {
+        "name_cn": "<c(A5A095)>IV</c> 黑海海军步兵",
+        "name_en": "<c(A5A095)>IV</c> Black sea marine squad",
+        "name_es": "<c(A5A095)>IV</c> Black sea marine squad",
+        "Cp": 0
+    },
+    "squad_osttruppen_con(ger)": {
+        "name_cn": "<c(A5A095)>I</c> 东方军团小队",
+        "name_en": "<c(A5A095)>I</c> Osttruppen squad",
+        "name_es": "<c(A5A095)>I</c> Osttruppen squad",
+        "Cp": 0
+    },
+    "squad_strafbatallion_con(ger)": {
+        "name_cn": "<c(A5A095)>I</c> 缓刑营小队",
+        "name_en": "<c(A5A095)>I</c> Strafbatallion squad",
+        "name_es": "<c(A5A095)>I</c> Strafbatallion squad",
+        "Cp": 0
+    },
+    "squad_luftwaffe_con(ger)": {
+        "name_cn": "<c(A5A095)>I</c> 空军步兵班",
+        "name_en": "<c(A5A095)>I</c> Luftwaffe Rifle squad",
+        "name_es": "<c(A5A095)>I</c> Luftwaffe Rifle squad",
+        "Cp": 0
+    },
+    "squad_blau_con(ger)": {
+        "name_cn": "<c(A5A095)>III</c> 蓝色师团小队",
+        "name_en": "<c(A5A095)>III</c> Blau division squad",
+        "name_es": "<c(A5A095)>III</c> Blau division squad",
+        "Cp": 0
+    },
+    "squad_brandenburger_con(ger)": {
+        "name_cn": "<c(A5A095)>IV</c> 勃兰登堡部队",
+        "name_en": "<c(A5A095)>IV</c> Brandenburger squad",
+        "name_es": "<c(A5A095)>IV</c> Brandenburger squad",
+        "Cp": 0
+    },
+    "squad_sicherung_con(ger)": {
+        "name_cn": "<c(A5A095)>II</c> 后备队",
+        "name_en": "<c(A5A095)>II</c> Sicherungs squad",
+        "name_es": "<c(A5A095)>II</c> Sicherungs squad",
+        "Cp": 0
+    },
+    "squad_regular_con(ger)": {
+        "name_cn": "<c(A5A095)>II</c> 步枪班",
+        "name_en": "<c(A5A095)>II</c> Rifle squad",
+        "name_es": "<c(A5A095)>II</c> Rifle squad",
+        "Cp": 0
+    },
+    "squad_regular_motor_con": {
+        "name_cn": "<c(A5A095)>II</c> 摩托化步枪班",
+        "name_en": "<c(A5A095)>II</c> Motorized Rifle squad",
+        "name_es": "<c(A5A095)>II</c> Motorized Rifle squad",
+        "Cp": 0
+    },
+    "squad_regular_armor_con": {
+        "name_cn": "<c(A5A095)>II</c> 步枪班(装甲车)",
+        "name_en": "<c(A5A095)>II</c> Armored Rifle squad",
+        "name_es": "<c(A5A095)>II</c> Armored Rifle squad",
+        "Cp": 0
+    },
+    "squad_regular_vet_con(ger)": {
+        "name_cn": "<c(A5A095)>III</c> 精锐步枪班",
+        "name_en": "<c(A5A095)>III</c> Veteran Rifle squad",
+        "name_es": "<c(A5A095)>III</c> Veteran Rifle squad",
+        "Cp": 0
+    },
+    "squad_gd_motor_con": {
+        "name_cn": "<c(A5A095)>IV</c> 大德意志师摩托化步兵班",
+        "name_en": "<c(A5A095)>IV</c> Großdeutschland Motorized Rifle squad",
+        "name_es": "<c(A5A095)>IV</c> Großdeutschland Motorized Rifle squad",
+        "Cp": 0
+    },
+    "squad_jaeger_con(ger)": {
+        "name_cn": "<c(A5A095)>III</c> 猎兵班",
+        "name_en": "<c(A5A095)>III</c> Jäger squad",
+        "name_es": "<c(A5A095)>III</c> Jäger squad",
+        "Cp": 0
+    },
+    "squad_pionier_con(ger)": {
+        "name_cn": "",
+        "name_en": "Squad historical description <c(DB465A)>Tips description.</c>",
+        "name_es": "Squad historical description <c(DB465A)>Tips description.</c>",
+        "Cp": 0
+    },
+    "squad_pz_pio_con": {
+        "name_cn": "<c(A5A095)>II</c> 装甲工兵小队(带装甲车)",
+        "name_en": "<c(A5A095)>II</c> Armored Pz-Pionier squad",
+        "name_es": "<c(A5A095)>II</c> Armored Pz-Pionier squad",
+        "Cp": 0
+    },
+    "squad_recon_con(ger)": {
+        "name_cn": "<c(A5A095)>II</c> 侦察班",
+        "name_en": "<c(A5A095)>II</c> Aufklärer squad",
+        "name_es": "<c(A5A095)>II</c> Aufklärer squad",
+        "Cp": 0
+    },
+    "squad_recon_motor_con": {
+        "name_cn": "<c(A5A095)>II</c> 摩托化侦察班",
+        "name_en": "<c(A5A095)>II</c> Motorized Aufklärer squad",
+        "name_es": "<c(A5A095)>II</c> Motorized Aufklärer squad",
+        "Cp": 0
+    },
+    "squad_recon_armor_con": {
+        "name_cn": "<c(A5A095)>II</c> 侦察班(带装甲车)",
+        "name_en": "<c(A5A095)>II</c> Armored Aufklärer squad",
+        "name_es": "<c(A5A095)>II</c> Armored Aufklärer squad",
+        "Cp": 0
+    },
+    "squad_gebirgsjaeger_con(ger)": {
+        "name_cn": "<c(A5A095)>IV</c> 山地猎兵班",
+        "name_en": "<c(A5A095)>IV</c> Gebirgsjäger squad",
+        "name_es": "<c(A5A095)>IV</c> Gebirgsjäger squad",
+        "Cp": 0
+    },
+    "squad_fallschirmjaeger_con(ger)": {
+        "name_cn": "<c(A5A095)>V</c> 空降猎兵班",
+        "name_en": "<c(A5A095)>V</c> Fallschirmjäger squad",
+        "name_es": "<c(A5A095)>V</c> Fallschirmjäger squad",
+        "Cp": 0
+    },
+    "squad_fallschirmjaeger_motor_con": {
+        "name_cn": "<c(A5A095)>V</c> 摩托化空降猎兵班",
+        "name_en": "<c(A5A095)>V</c> Motorized Fallschirmjäger squad",
+        "name_es": "<c(A5A095)>V</c> Motorized Fallschirmjäger squad",
+        "Cp": 0
+    },
+    "single_at2(rus)": {
+        "name_cn": "反坦克小组(配备PTRS)",
+        "name_en": "AT Detach. (PTRS)",
+        "name_es": "AT Detach. (PTRS)",
+        "Cp": 0
+    },
+    "single_at_pzs_late_con(rus)": {
+        "name_cn": "坦克杀手小组",
+        "name_en": "Panzerschreck Team",
+        "name_es": "Panzerschreck Team",
+        "Cp": 0
+    },
+    "single_at_late_con(rus)": {
+        "name_cn": "反坦克小组",
+        "name_en": "Anti-Tank Team",
+        "name_es": "Anti-Tank Team",
+        "Cp": 0
+    },
+    "single_at_pzs_late_con(ger)": {
+        "name_cn": "坦克杀手小组",
+        "name_en": "Panzerschreck Team",
+        "name_es": "Panzerschreck Team",
+        "Cp": 0
+    },
+    "squad_at_late_con(ger)": {
+        "name_cn": "反坦克班",
+        "name_en": "Anti-Tank Squad",
+        "name_es": "Anti-Tank Squad",
+        "Cp": 0
+    },
+    "doctrine_squad_regular_motorised": {
+        "name_cn": "<c(B29557)>( I )</c> Sd.Kfz.251搭载步兵",
+        "name_en": "<c(B29557)>( I )</c> Sd.Kfz.251 + Inf.",
+        "name_es": "<c(B29557)>( I )</c> Sd.Kfz.251 + Inf.",
+        "Cp": 0
+    },
+    "doctrine_bf110_mid": {
+        "name_cn": "<c(B29557)>( III )</c> Bf-110 空袭",
+        "name_en": "<c(B29557)>( III )</c> Bf-110 Airstrike",
+        "name_es": "<c(B29557)>( III )</c> Bf-110 Airstrike",
+        "Cp": 0
+    },
+    "doctrine_il2_mid": {
+        "name_cn": "<c(B29557)>( III )</c> 伊尔-2 空袭",
+        "name_en": "<c(B29557)>( III )</c> IL-2 Airstrike",
+        "name_es": "<c(B29557)>( III )</c> IL-2 Airstrike",
+        "Cp": 0
+    },
+    "squad_rifle_late_dp_con(fin)": {
+        "name_cn": "<c(A5A095)>(2)</c>步枪班(DP机枪)[末期]",
+        "name_en": "<c(A5A095)>(2)</c> Rifle Squad (DP) [Late]",
+        "name_es": "<c(A5A095)>(2)</c> Rifle Squad (DP) [Late]",
+        "Cp": 0
+    },
+    "squad_rifle_late_dt_con(fin)": {
+        "name_cn": "<c(A5A095)>(2)</c>步枪班(DT机枪)[末期]",
+        "name_en": "<c(A5A095)>(2)</c> Rifle Squad (DT) [Late]",
+        "name_es": "<c(A5A095)>(2)</c> Rifle Squad (DT) [Late]",
+        "Cp": 0
+    },
+    "squad_eng_flame_con(fin)": {
+        "name_cn": "<c(A5A095)>(2)</c>工兵喷火器班",
+        "name_en": "<c(A5A095)>(2)</c> Engineer Flamer Squad",
+        "name_es": "<c(A5A095)>(2)</c> Engineer Flamer Squad",
+        "Cp": 0
+    },
+    "squad_antitank_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(2)</c>反坦克班",
+        "name_en": "<c(A5A095)>(2)</c> Anti-tank Squad",
+        "name_es": "<c(A5A095)>(2)</c> Anti-tank Squad",
+        "Cp": 0
+    },
+    "squad_vet_scout_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(2+)</c>精锐侦察部队",
+        "name_en": "<c(A5A095)>(2+)</c> Veteran Scout Section",
+        "name_es": "<c(A5A095)>(2+)</c> Veteran Scout Section",
+        "Cp": 0
+    },
+    "squad_vet_rifle_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(2+)</c>精锐步枪班",
+        "name_en": "<c(A5A095)>(2+)</c> Veteran Rifle Squad",
+        "name_es": "<c(A5A095)>(2+)</c> Veteran Rifle Squad",
+        "Cp": 0
+    },
+    "squad_vet_rifle_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(2+)</c>精锐步枪班[末期]",
+        "name_en": "<c(A5A095)>(2+)</c> Veteran Rifle Squad [Late]",
+        "name_es": "<c(A5A095)>(2+)</c> Veteran Rifle Squad [Late]",
+        "Cp": 0
+    },
+    "squad_marksmen_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(2+)</c>精锐精确射手班",
+        "name_en": "<c(A5A095)>(2+)</c> Veteran Marksmen Squad",
+        "name_es": "<c(A5A095)>(2+)</c> Veteran Marksmen Squad",
+        "Cp": 0
+    },
+    "squad_cav_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(3)</c>骑兵班",
+        "name_en": "<c(A5A095)>(3)</c> Cavalry Squad",
+        "name_es": "<c(A5A095)>(3)</c> Cavalry Squad",
+        "Cp": 0
+    },
+    "squad_cav_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(3)</c>骑兵班[末期]",
+        "name_en": "<c(A5A095)>(3)</c> Cavalry Squad [Late]",
+        "name_es": "<c(A5A095)>(3)</c> Cavalry Squad [Late]",
+        "Cp": 0
+    },
+    "squad_vet_cav_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(3+)</c>精锐骑兵班",
+        "name_en": "<c(A5A095)>(3+)</c> Veteran Cavalry Squad",
+        "name_es": "<c(A5A095)>(3+)</c> Veteran Cavalry Squad",
+        "Cp": 0
+    },
+    "squad_vet_cav_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(3+)</c>精锐骑兵班[末期]",
+        "name_en": "<c(A5A095)>(3+)</c> Veteran Cavalry Squad [Late]",
+        "name_es": "<c(A5A095)>(3+)</c> Veteran Cavalry Squad [Late]",
+        "Cp": 0
+    },
+    "squad_elite_rifle_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(3+)</c>精英步枪班",
+        "name_en": "<c(A5A095)>(3+)</c> Elite Rifle Squad",
+        "name_es": "<c(A5A095)>(3+)</c> Elite Rifle Squad",
+        "Cp": 0
+    },
+    "squad_elite_rifle_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(3+)</c>精英步枪班[末期]",
+        "name_en": "<c(A5A095)>(3+)</c> Elite Rifle Squad [Late]",
+        "name_es": "<c(A5A095)>(3+)</c> Elite Rifle Squad [Late]",
+        "Cp": 0
+    },
+    "squad_jag_scout_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(4)</c>猎兵侦察分队",
+        "name_en": "<c(A5A095)>(4)</c> Jäger Scout Section",
+        "name_es": "<c(A5A095)>(4)</c> Jäger Scout Section",
+        "Cp": 0
+    },
+    "squad_jag_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(4)</c>猎兵班[末期]",
+        "name_en": "<c(A5A095)>(4)</c> Jäger Squad [Late]",
+        "name_es": "<c(A5A095)>(4)</c> Jäger Squad [Late]",
+        "Cp": 0
+    },
+    "squad_jag_at_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(4)</c>猎兵反坦克班[末期]",
+        "name_en": "<c(A5A095)>(4)</c> Jäger AT Squad [Late]",
+        "name_es": "<c(A5A095)>(4)</c> Jäger AT Squad [Late]",
+        "Cp": 0
+    },
+    "squad_border_jag_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(4)</c>边防猎兵班[末期]",
+        "name_en": "<c(A5A095)>(4)</c> Border Jäger Squad [Late]",
+        "name_es": "<c(A5A095)>(4)</c> Border Jäger Squad [Late]",
+        "Cp": 0
+    },
+    "squad_border_jag_at_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(4)</c>边防猎兵反坦克班[末期]",
+        "name_en": "<c(A5A095)>(4)</c> Border Jäger AT Squad [Late]",
+        "name_es": "<c(A5A095)>(4)</c> Border Jäger AT Squad [Late]",
+        "Cp": 0
+    },
+    "squad_vet_jag_mid_con(fin)": {
+        "name_cn": "<c(A5A095)>(4+)</c>精锐猎兵班",
+        "name_en": "<c(A5A095)>(4+)</c> Veteran Jäger Squad",
+        "name_es": "<c(A5A095)>(4+)</c> Veteran Jäger Squad",
+        "Cp": 0
+    },
+    "squad_vet_jag_late_con(fin)": {
+        "name_cn": "<c(A5A095)>(4+)</c>精锐猎兵班[末期]",
+        "name_en": "<c(A5A095)>(4+)</c> Veteran Jäger Squad [Late]",
+        "name_es": "<c(A5A095)>(4+)</c> Veteran Jäger Squad [Late]",
+        "Cp": 0
+    },
+    "squad_gebirgs_recon_late_con(ger)": {
+        "name_cn": "<c(A5A095)>(4)</c>山地侦察班[1944]",
+        "name_en": "<c(A5A095)>(4)</c> Gebirgsaufklärer squad [1944]",
+        "name_es": "<c(A5A095)>(4)</c> Gebirgsaufklärer squad [1944]",
+        "Cp": 0
+    },
+    "squad_pzg_lehr_armor_con": {
+        "name_cn": "<c(A5A095)>(3+)</c>装甲教导师装甲掷弹兵班(带装甲车)[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> Armored Pz-Lehr Pz.Grenadier squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> Armored Pz-Lehr Pz.Grenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_sturm_pzg_lehr_armor_con": {
+        "name_cn": "<c(A5A095)>(3+)</c>装甲教导师装甲突击掷弹兵班(带装甲车)[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> Armored Pz-Lehr Pz.Sturmgrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> Armored Pz-Lehr Pz.Sturmgrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_pz_pio_late_con": {
+        "name_cn": "<c(A5A095)>(2)</c>装甲工兵班(带装甲车)[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Armored Pz.Pionier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Armored Pz.Pionier squad [1944]",
+        "Cp": 0
+    },
+    "squad_fusilier_late_con(ger)": {
+        "name_cn": "<c(A5A095)>(3)</c>燧发枪班[1944]",
+        "name_en": "<c(A5A095)>(3)</c> Füsilier squad [1944]",
+        "name_es": "<c(A5A095)>(3)</c> Füsilier squad [1944]",
+        "Cp": 0
+    },
+    "squad_fusilier_smg_late_con(ger)": {
+        "name_cn": "<c(A5A095)>(3)</c>燧发枪兵冲锋枪班[1944]",
+        "name_en": "<c(A5A095)>(3)</c> Füsilier SMG squad [1944]",
+        "name_es": "<c(A5A095)>(3)</c> Füsilier SMG squad [1944]",
+        "Cp": 0
+    },
+    "squad_pz_recon_armor_late_con": {
+        "name_cn": "<c(A5A095)>(2)</c>装甲侦察班(带装甲车)[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Armored Pz.Aufklärer team [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Armored Pz.Aufklärer team [1944]",
+        "Cp": 0
+    },
+    "squad_lw_jaeger_con(ger)": {
+        "name_cn": "<c(A5A095)>(2)</c>空军猎兵班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Luftwaffe Jäger squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Luftwaffe Jäger squad [1944]",
+        "Cp": 0
+    },
+    "squad_fallschirmjaeger_late_motor_con": {
+        "name_cn": "<c(A5A095)>(4)</c>摩托化空降猎兵班[1944]",
+        "name_en": "<c(A5A095)>(4)</c> Motorized Fallschirmjäger squad [1944]",
+        "name_es": "<c(A5A095)>(4)</c> Motorized Fallschirmjäger squad [1944]",
+        "Cp": 0
+    },
+    "squad_fallschirm_recon_late_con(ger)": {
+        "name_cn": "<c(A5A095)>(4)</c>空降侦察班[1944]",
+        "name_en": "<c(A5A095)>(4)</c> Fallschirmaufklärer squad [1944]",
+        "name_es": "<c(A5A095)>(4)</c> Fallschirmaufklärer squad [1944]",
+        "Cp": 0
+    },
+    "squad_volkssturm_con(ger)": {
+        "name_cn": "<c(A5A095)>(1)</c>人民冲锋队[1945]",
+        "name_en": "<c(A5A095)>(1)</c> Volkssturm squad [1945]",
+        "name_es": "<c(A5A095)>(1)</c> Volkssturm squad [1945]",
+        "Cp": 0
+    },
+    "squad_grenadier_con(ger)": {
+        "name_cn": "<c(A5A095)>(2)</c>掷弹兵班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Grenadier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Grenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_sturmgren_con(ger)": {
+        "name_cn": "<c(A5A095)>(2)</c>突击掷弹兵班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Sturmgrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Sturmgrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_sturmgren_heavy_con(ger)": {
+        "name_cn": "<c(A5A095)>(2)</c>重装突击掷弹兵班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Heavy Sturmgrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Heavy Sturmgrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_volksg_con(ger)": {
+        "name_cn": "<c(A5A095)>(2)</c>国民掷弹兵班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Volksgrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Volksgrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_volksg_sturm_con(ger)": {
+        "name_cn": "<c(A5A095)>(2)</c>突击国民掷弹兵班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Sturm Volksgrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Sturm Volksgrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_volksg_heavy_con(ger)": {
+        "name_cn": "<c(A5A095)>(2)</c>重装国民掷弹兵班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Heavy Volksgrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Heavy Volksgrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_pzgren_motor_con": {
+        "name_cn": "<c(A5A095)>(2)</c>摩托化装甲掷弹兵班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Motorized Panzergrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Motorized Panzergrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_pzgren_armor_con": {
+        "name_cn": "<c(A5A095)>(2)</c>装甲掷弹兵班(带装甲车)[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Armored Panzergrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Armored Panzergrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_sturm_pzgren_armor_con": {
+        "name_cn": "<c(A5A095)>(2)</c>装甲突击掷弹兵班(带装甲车)[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Armored Pz.Sturmgrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Armored Pz.Sturmgrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_sturmjager_con(ger)": {
+        "name_cn": "<c(A5A095)>(3)</c>突击猎兵班[1944]",
+        "name_en": "<c(A5A095)>(3)</c> Sturmjäger squad [1944]",
+        "name_es": "<c(A5A095)>(3)</c> Sturmjäger squad [1944]",
+        "Cp": 0
+    },
+    "squad_sturm_begleitgren_motor_con": {
+        "name_cn": "<c(A5A095)>(3)</c>摩托化伴随突击掷弹兵班[1944]",
+        "name_en": "<c(A5A095)>(3)</c> Motorized Sturm Begleitgrenadier squad [1944]",
+        "name_es": "<c(A5A095)>(3)</c> Motorized Sturm Begleitgrenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_pzg_gd_armor_con": {
+        "name_cn": "<c(A5A095)>(3+)</c>大德意志师装甲掷弹兵班(带装甲车)[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> Armored Großdeutschland Pz.grenadier squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> Armored Großdeutschland Pz.grenadier squad [1944]",
+        "Cp": 0
+    },
+    "squad_gebirgsjaeger_late_con(ger)": {
+        "name_cn": "<c(A5A095)>(4)</c>山地猎兵班[1944]",
+        "name_en": "<c(A5A095)>(4)</c> Gebirgsjäger squad [1944]",
+        "name_es": "<c(A5A095)>(4)</c> Gebirgsjäger squad [1944]",
+        "Cp": 0
+    },
+    "squad_brandenburger_44_con(ger)": {
+        "name_cn": "<c(A5A095)>(4)</c>勃兰登堡部队[1944]",
+        "name_en": "<c(A5A095)>(4)</c> Brandenburger squad [1944]",
+        "name_es": "<c(A5A095)>(4)</c> Brandenburger squad [1944]",
+        "Cp": 0
+    },
+    "conquest_p47": {
+        "name_cn": "P47 500lb 航空炸弹",
+        "name_en": "P47 500lb Bomb",
+        "name_es": "P47 500lb Bomb",
+        "Cp": 0
+    },
+    "conquest_p47_light": {
+        "name_cn": "P47 100lb 航空炸弹",
+        "name_en": "P47 100lb Bomb",
+        "name_es": "P47 100lb Bomb",
+        "Cp": 0
+    },
+    "conquest_p47_recon": {
+        "name_cn": "P47 侦察",
+        "name_en": "P47 Recon",
+        "name_es": "P47 Recon",
+        "Cp": 0
+    },
+    "single_at_con(usa)": {
+        "name_cn": "M1巴祖卡反坦克小组",
+        "name_en": "M1 Bazooka AT Team",
+        "name_es": "M1 Bazooka AT Team",
+        "Cp": 0
+    },
+    "single_at1_con(usa)": {
+        "name_cn": "M1A1巴祖卡反坦克小组",
+        "name_en": "M1A1 Bazooka AT Team",
+        "name_es": "M1A1 Bazooka AT Team",
+        "Cp": 0
+    },
+    "single_at2_con(usa)": {
+        "name_cn": "M9巴祖卡反坦克小组",
+        "name_en": "M9 Bazooka AT Team",
+        "name_es": "M9 Bazooka AT Team",
+        "Cp": 0
+    },
+    "single_at3_con(usa)": {
+        "name_cn": "M9A1巴祖卡反坦克小组",
+        "name_en": "M9A1 Bazooka AT Team",
+        "name_es": "M9A1 Bazooka AT Team",
+        "Cp": 0
+    },
+    "single_riflegrenade_con(usa)": {
+        "name_cn": "M1903 反坦克枪榴弹兵",
+        "name_en": "M1903 AT Rifle Grenadiers",
+        "name_es": "M1903 AT Rifle Grenadiers",
+        "Cp": 0
+    },
+    "single_riflegrenade2_con(usa)": {
+        "name_cn": "M1 反坦克枪榴弹兵",
+        "name_en": "M1 AT Rifle Grenadiers",
+        "name_es": "M1 AT Rifle Grenadiers",
+        "Cp": 0
+    },
+    "single_ap_miner(usa)": {
+        "name_cn": "反人员地雷工兵",
+        "name_en": "AP Miners",
+        "name_es": "AP Miners",
+        "Cp": 0
+    },
+    "single_at_miner(usa)": {
+        "name_cn": "反坦克地雷工兵",
+        "name_en": "AT Miners",
+        "name_es": "AT Miners",
+        "Cp": 0
+    },
+    "single_engineer(usa)": {
+        "name_cn": "工程兵",
+        "name_en": "Engineers",
+        "name_es": "Engineers",
+        "Cp": 0
+    },
+    "single_flamer(usa)": {
+        "name_cn": "喷火兵",
+        "name_en": "Flamer",
+        "name_es": "Flamer",
+        "Cp": 0
+    },
+    "single_tankman(usa)": {
+        "name_cn": "坦克车组",
+        "name_en": "Tank Crew",
+        "name_es": "Tank Crew",
+        "Cp": 0
+    },
+    "single_medic(usa)": {
+        "name_cn": "医疗兵",
+        "name_en": "Medic",
+        "name_es": "Medic",
+        "Cp": 0
+    },
+    "single_sniper(usa)": {
+        "name_cn": "狙击手",
+        "name_en": "Sniper",
+        "name_es": "Sniper",
+        "Cp": 0
+    },
+    "single_officer(usa)": {
+        "name_cn": "军官",
+        "name_en": "Officer",
+        "name_es": "Officer",
+        "Cp": 0
+    },
+    "squad_officer_con(usa)": {
+        "name_cn": "步兵排指挥部",
+        "name_en": "Infantry Platoon HQ",
+        "name_es": "Infantry Platoon HQ",
+        "Cp": 0
+    },
+    "squad_officer_m3a1_commander_con": {
+        "name_cn": "骑兵排指挥部",
+        "name_en": "Cavalry Platoon HQ",
+        "name_es": "Cavalry Platoon HQ",
+        "Cp": 0
+    },
+    "squad_officer_m3a1_halftrack_con": {
+        "name_cn": "装甲连指挥部",
+        "name_en": "Armored Company HQ",
+        "name_es": "Armored Company HQ",
+        "Cp": 0
+    },
+    "squad_mp_con(usa)": {
+        "name_cn": "<c(A5A095)>(1)</c>宪兵班",
+        "name_en": "<c(A5A095)>(1)</c> Military Police Squad",
+        "name_es": "<c(A5A095)>(1)</c> Military Police Squad",
+        "Cp": 0
+    },
+    "squad_45th_rifle_con(usa)": {
+        "name_cn": "<c(A5A095)>(1)</c>45师步枪班",
+        "name_en": "<c(A5A095)>(1)</c> 45th Div Rifle Squad",
+        "name_es": "<c(A5A095)>(1)</c> 45th Div Rifle Squad",
+        "Cp": 0
+    },
+    "squad_1st_arm_recon_con(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>第1装甲师侦察小组",
+        "name_en": "<c(A5A095)>(2)</c> 1st.AD Recon Team",
+        "name_es": "<c(A5A095)>(2)</c> 1st.AD Recon Team",
+        "Cp": 0
+    },
+    "squad_cav_late_con1(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>骑兵侦察小组(M1919)",
+        "name_en": "<c(A5A095)>(2)</c> Cavalry Recon Team (M1919)",
+        "name_es": "<c(A5A095)>(2)</c> Cavalry Recon Team (M1919)",
+        "Cp": 0
+    },
+    "squad_cav_late_con2(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>骑兵侦察小组(M2HB)",
+        "name_en": "<c(A5A095)>(2)</c> Cavalry Recon Team (M2HB)",
+        "name_es": "<c(A5A095)>(2)</c> Cavalry Recon Team (M2HB)",
+        "Cp": 0
+    },
+    "squad_82nd_recon_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>82师侦察小组",
+        "name_en": "<c(A5A095)>(4)</c> 82nd Recon Team",
+        "name_es": "<c(A5A095)>(4)</c> 82nd Recon Team",
+        "Cp": 0
+    },
+    "squad_rifle_con(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>步枪班",
+        "name_en": "<c(A5A095)>(2)</c> Rifle Squad",
+        "name_es": "<c(A5A095)>(2)</c> Rifle Squad",
+        "Cp": 0
+    },
+    "squad_1st_arm_rifle_con(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>第1装甲师步枪班",
+        "name_en": "<c(A5A095)>(2)</c> 1st.AD Rifle Squad",
+        "name_es": "<c(A5A095)>(2)</c> 1st.AD Rifle Squad",
+        "Cp": 0
+    },
+    "squad_1st_arm_rifle_mech_con(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>第1装甲师步枪班(装甲车)",
+        "name_en": "<c(A5A095)>(2)</c> 1st.AD Rifle Squad (Mounted)",
+        "name_es": "<c(A5A095)>(2)</c> 1st.AD Rifle Squad (Mounted)",
+        "Cp": 0
+    },
+    "squad_eng_con(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>工兵班",
+        "name_en": "<c(A5A095)>(2)</c> Engineer Squad",
+        "name_es": "<c(A5A095)>(2)</c> Engineer Squad",
+        "Cp": 0
+    },
+    "squad_eng_mech_con(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>工兵班(装甲车)",
+        "name_en": "<c(A5A095)>(2)</c> Engineer Squad (Mounted)",
+        "name_es": "<c(A5A095)>(2)</c> Engineer Squad (Mounted)",
+        "Cp": 0
+    },
+    "squad_vet_rifle_con(usa)": {
+        "name_cn": "<c(A5A095)>(2+)</c>精锐步枪班",
+        "name_en": "<c(A5A095)>(2+)</c> Veteran Rifle Squad",
+        "name_es": "<c(A5A095)>(2+)</c> Veteran Rifle Squad",
+        "Cp": 0
+    },
+    "squad_82nd_glider_con(usa)": {
+        "name_cn": "<c(A5A095)>(3)</c>82师机降步兵班",
+        "name_en": "<c(A5A095)>(3)</c> 82nd Glider Squad",
+        "name_es": "<c(A5A095)>(3)</c> 82nd Glider Squad",
+        "Cp": 0
+    },
+    "squad_82nd_glider_pio_con(usa)": {
+        "name_cn": "<c(A5A095)>(3)</c>82师机降工兵班",
+        "name_en": "<c(A5A095)>(3)</c> 82nd Glider Pioneer Squad",
+        "name_es": "<c(A5A095)>(3)</c> 82nd Glider Pioneer Squad",
+        "Cp": 0
+    },
+    "squad_ranger_assault_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>游骑兵突击分队",
+        "name_en": "<c(A5A095)>(4)</c> Ranger Assault Section",
+        "name_es": "<c(A5A095)>(4)</c> Ranger Assault Section",
+        "Cp": 0
+    },
+    "squad_ranger_assault_mg_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>游骑兵突击分队(机枪)",
+        "name_en": "<c(A5A095)>(4)</c> Ranger Assault Section (MG)",
+        "name_es": "<c(A5A095)>(4)</c> Ranger Assault Section (MG)",
+        "Cp": 0
+    },
+    "squad_82nd_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>82师空降步兵班(机枪)",
+        "name_en": "<c(A5A095)>(4)</c> 82nd Airborne Squad (MG)",
+        "name_es": "<c(A5A095)>(4)</c> 82nd Airborne Squad (MG)",
+        "Cp": 0
+    },
+    "squad_82nd_eng_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>82师空降工兵班",
+        "name_en": "<c(A5A095)>(4)</c> 82nd Airborne Engineer Squad",
+        "name_es": "<c(A5A095)>(4)</c> 82nd Airborne Engineer Squad",
+        "Cp": 0
+    },
+    "1st_special_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>第1特勤队作战分队",
+        "name_en": "<c(A5A095)>(4)</c> 1st Special Combat Section",
+        "name_es": "<c(A5A095)>(4)</c> 1st Special Combat Section",
+        "Cp": 0
+    },
+    "squad_vet_partisan_rifle_late_con(rus)": {
+        "name_cn": "<c(A5A095)>(1+)</c>精锐游击队步枪班[1944]",
+        "name_en": "<c(A5A095)>(1+)</c> Veteran Partisan Rifle squad [1944]",
+        "name_es": "<c(A5A095)>(1+)</c> Veteran Partisan Rifle squad [1944]",
+        "Cp": 0
+    },
+    "squad_vet_partisan_smg_late_con(rus)": {
+        "name_cn": "<c(A5A095)>(1+)</c>精锐游击队冲锋枪班[1944]",
+        "name_en": "<c(A5A095)>(1+)</c> Veteran Partisan SMG squad [1944]",
+        "name_es": "<c(A5A095)>(1+)</c> Veteran Partisan SMG squad [1944]",
+        "Cp": 0
+    },
+    "squad_nkvd_recon_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>内务部侦察班",
+        "name_en": "<c(A5A095)>(2)</c> NKVD Recon squad",
+        "name_es": "<c(A5A095)>(2)</c> NKVD Recon squad",
+        "Cp": 0
+    },
+    "squad_recon_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>侦察班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Recon squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Recon squad [1944]",
+        "Cp": 0
+    },
+    "squad_nkvd_sapper_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>内务部战斗工兵班",
+        "name_en": "<c(A5A095)>(2)</c> NKVD Sapper squad",
+        "name_es": "<c(A5A095)>(2)</c> NKVD Sapper squad",
+        "Cp": 0
+    },
+    "squad_sapper_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>工兵班",
+        "name_en": "<c(A5A095)>(2)</c> Sapper squad",
+        "name_es": "<c(A5A095)>(2)</c> Sapper squad",
+        "Cp": 0
+    },
+    "squad_sapper_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>工兵班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Sapper squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Sapper squad [1944]",
+        "Cp": 0
+    },
+    "squad_nkvd_at_rifle_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>内务部反坦克步枪班",
+        "name_en": "<c(A5A095)>(2)</c> NKVD AT rifle squad",
+        "name_es": "<c(A5A095)>(2)</c> NKVD AT rifle squad",
+        "Cp": 0
+    },
+    "squad_nkvd_rifle_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>内务部步枪班",
+        "name_en": "<c(A5A095)>(2)</c> NKVD Rifle squad",
+        "name_es": "<c(A5A095)>(2)</c> NKVD Rifle squad",
+        "Cp": 0
+    },
+    "squad_rifle_43_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>步枪班[1943]",
+        "name_en": "<c(A5A095)>(2)</c> Rifle squad [1943]",
+        "name_es": "<c(A5A095)>(2)</c> Rifle squad [1943]",
+        "Cp": 0
+    },
+    "squad_rifle_43_heavy_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>重装步枪班[1943]",
+        "name_en": "<c(A5A095)>(2)</c> Heavy Rifle squad [1943]",
+        "name_es": "<c(A5A095)>(2)</c> Heavy Rifle squad [1943]",
+        "Cp": 0
+    },
+    "squad_rifle_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>步枪班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Rifle squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Rifle squad [1944]",
+        "Cp": 0
+    },
+    "squad_smg_mg_43_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>冲锋枪班[1943]",
+        "name_en": "<c(A5A095)>(2)</c> SMG squad [1943]",
+        "name_es": "<c(A5A095)>(2)</c> SMG squad [1943]",
+        "Cp": 0
+    },
+    "squad_smg_mg_43_heavy_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>重装冲锋枪班[1943]",
+        "name_en": "<c(A5A095)>(2)</c> Heavy SMG squad [1943]",
+        "name_es": "<c(A5A095)>(2)</c> Heavy SMG squad [1943]",
+        "Cp": 0
+    },
+    "squad_smg_mg_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(2)</c>冲锋枪班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> SMG squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> SMG squad [1944]",
+        "Cp": 0
+    },
+    "squad_guardsrifle_con(rus)": {
+        "name_cn": "<c(A5A095)>(2+)</c>近卫步枪班",
+        "name_en": "<c(A5A095)>(2+)</c> Guards Rifle squad",
+        "name_es": "<c(A5A095)>(2+)</c> Guards Rifle squad",
+        "Cp": 0
+    },
+    "squad_guardsrifle_motorised_con": {
+        "name_cn": "<c(A5A095)>(2+)</c>摩托化近卫步枪班",
+        "name_en": "<c(A5A095)>(2+)</c> Mot. Guards Rifle squad",
+        "name_es": "<c(A5A095)>(2+)</c> Mot. Guards Rifle squad",
+        "Cp": 0
+    },
+    "squad_guards_smg_con(rus)": {
+        "name_cn": "<c(A5A095)>(2+)</c>近卫冲锋枪班",
+        "name_en": "<c(A5A095)>(2+)</c> Guards SMG squad",
+        "name_es": "<c(A5A095)>(2+)</c> Guards SMG squad",
+        "Cp": 0
+    },
+    "squad_guardsrifle_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(2+)</c>近卫步枪班[1944]",
+        "name_en": "<c(A5A095)>(2+)</c> Guards Rifle squad [1944]",
+        "name_es": "<c(A5A095)>(2+)</c> Guards Rifle squad [1944]",
+        "Cp": 0
+    },
+    "squad_guardsrifle_44_motor_con(rus)": {
+        "name_cn": "<c(A5A095)>(2+)</c>摩托化近卫步枪班[1944]",
+        "name_en": "<c(A5A095)>(2+)</c> Mot. Guards Rifle squad [1944]",
+        "name_es": "<c(A5A095)>(2+)</c> Mot. Guards Rifle squad [1944]",
+        "Cp": 0
+    },
+    "squad_guards_smg_mg_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(2+)</c>近卫冲锋枪班[1944]",
+        "name_en": "<c(A5A095)>(2+)</c> Guards SMG squad [1944]",
+        "name_es": "<c(A5A095)>(2+)</c> Guards SMG squad [1944]",
+        "Cp": 0
+    },
+    "squad_guards_smg_mg_44_motor_con(rus)": {
+        "name_cn": "<c(A5A095)>(2+)</c>摩托化近卫冲锋枪班[1944]",
+        "name_en": "<c(A5A095)>(2+)</c> Mot. Guards SMG squad [1944]",
+        "name_es": "<c(A5A095)>(2+)</c> Mot. Guards SMG squad [1944]",
+        "Cp": 0
+    },
+    "squad_nkvd_mountain_con(rus)": {
+        "name_cn": "<c(A5A095)>(3)</c>内务部山地步兵班",
+        "name_en": "<c(A5A095)>(3)</c> NKVD Mountain Rifle squad",
+        "name_es": "<c(A5A095)>(3)</c> NKVD Mountain Rifle squad",
+        "Cp": 0
+    },
+    "squad_marines_reg_con(rus)": {
+        "name_cn": "<c(A5A095)>(3)</c>海军步兵步枪班",
+        "name_en": "<c(A5A095)>(3)</c> Marine Rifle squad",
+        "name_es": "<c(A5A095)>(3)</c> Marine Rifle squad",
+        "Cp": 0
+    },
+    "squad_cav_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(3)</c>骑兵步枪班[1944]",
+        "name_en": "<c(A5A095)>(3)</c> Cavalry Rifle squad [1944]",
+        "name_es": "<c(A5A095)>(3)</c> Cavalry Rifle squad [1944]",
+        "Cp": 0
+    },
+    "squad_elite_guardsrifle_44_motor_con(rus)": {
+        "name_cn": "<c(A5A095)>(3+)</c>摩托化精英近卫步枪班[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> Mot. Elite Guards Rifle squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> Mot. Elite Guards Rifle squad [1944]",
+        "Cp": 0
+    },
+    "squad_elite_guards_smg_mg_44_motor_con(rus)": {
+        "name_cn": "<c(A5A095)>(3+)</c>摩托化精英近卫冲锋枪班[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> Mot. Elite Guards SMG squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> Mot. Elite Guards SMG squad [1944]",
+        "Cp": 0
+    },
+    "squad_guards_cav_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(3+)</c>近卫骑兵步枪班[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> Guards Cavalry Rifle squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> Guards Cavalry Rifle squad [1944]",
+        "Cp": 0
+    },
+    "squad_guards_marines_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(3+)</c>近卫海军步兵步枪班[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> Guards Marine Rifle squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> Guards Marine Rifle squad [1944]",
+        "Cp": 0
+    },
+    "squad_nkvd_mountain_cav_con(rus)": {
+        "name_cn": "<c(A5A095)>(4)</c>内务部山地骑兵班",
+        "name_en": "<c(A5A095)>(4)</c> NKVD Mountain Cavalry squad",
+        "name_es": "<c(A5A095)>(4)</c> NKVD Mountain Cavalry squad",
+        "Cp": 0
+    },
+    "squad_mountain_cav_44_con(rus)": {
+        "name_cn": "<c(A5A095)>(4)</c>山地骑兵班[1944]",
+        "name_en": "<c(A5A095)>(4)</c> Mountain Cavalry squad [1944]",
+        "name_es": "<c(A5A095)>(4)</c> Mountain Cavalry squad [1944]",
+        "Cp": 0
+    },
+    "squad_assaultsappers_con(rus)": {
+        "name_cn": "<c(A5A095)>(4)</c>突击工兵班",
+        "name_en": "<c(A5A095)>(4)</c> Assault-engineer Sapper squad",
+        "name_es": "<c(A5A095)>(4)</c> Assault-engineer Sapper squad",
+        "Cp": 0
+    },
+    "squad_assaultsappers_flame_con(rus)": {
+        "name_cn": "<c(A5A095)>(4)</c>突击工兵喷火器班",
+        "name_en": "<c(A5A095)>(4)</c> Assault-engineer Flamer squad",
+        "name_es": "<c(A5A095)>(4)</c> Assault-engineer Flamer squad",
+        "Cp": 0
+    },
+    "squad_assaultsappers_at_con(rus)": {
+        "name_cn": "<c(A5A095)>(4)</c>突击工兵反坦克班",
+        "name_en": "<c(A5A095)>(4)</c> Assault-engineer AT squad",
+        "name_es": "<c(A5A095)>(4)</c> Assault-engineer AT squad",
+        "Cp": 0
+    },
+    "squad_paras_con(rus)": {
+        "name_cn": "<c(A5A095)>(4)</c>伞兵班",
+        "name_en": "<c(A5A095)>(4)</c> Paratrooper squad",
+        "name_es": "<c(A5A095)>(4)</c> Paratrooper squad",
+        "Cp": 0
+    },
+    "squad_guards_paras_con(rus)": {
+        "name_cn": "<c(A5A095)>(4+)</c>近卫伞兵班",
+        "name_en": "<c(A5A095)>(4+)</c> Guards Paratrooper squad",
+        "name_es": "<c(A5A095)>(4+)</c> Guards Paratrooper squad",
+        "Cp": 0
+    },
+    "squad_101st_pathfinder_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c> 101空降师空降引导部队[1944]",
+        "name_en": "<c(A5A095)>(4)</c> 101st Airborne Pathfinders [1944]",
+        "name_es": "<c(A5A095)>(4)</c> 101st Airborne Pathfinders [1944]",
+        "Cp": 0
+    },
+    "squad_82nd_pathfinder_con(usa)": {
+        "name_cn": "<c(A5A095)>(4+)</c> 82空降师空降引导部队[1944]",
+        "name_en": "<c(A5A095)>(4+)</c> 82nd Airborne Pathfinders [1944]",
+        "name_es": "<c(A5A095)>(4+)</c> 82nd Airborne Pathfinders [1944]",
+        "Cp": 0
+    },
+    "squad_101st_eng_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>101师空降工兵班[1944]",
+        "name_en": "<c(A5A095)>(4)</c> 101st Airborne Engineer Squad [1944]",
+        "name_es": "<c(A5A095)>(4)</c> 101st Airborne Engineer Squad [1944]",
+        "Cp": 0
+    },
+    "squad_101st_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>101师空降步兵班[1944]",
+        "name_en": "<c(A5A095)>(4)</c> 101st Airborne Squad [1944]",
+        "name_es": "<c(A5A095)>(4)</c> 101st Airborne Squad [1944]",
+        "Cp": 0
+    },
+    "squad_101st_glider_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(3)</c>101师机降步兵班[1944]",
+        "name_en": "<c(A5A095)>(3)</c> 101st Glider Squad [1944]",
+        "name_es": "<c(A5A095)>(3)</c> 101st Glider Squad [1944]",
+        "Cp": 0
+    },
+    "squad_82nd_glider_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(3+)</c>82师机降步兵班[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> 82nd Glider Squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> 82nd Glider Squad [1944]",
+        "Cp": 0
+    },
+    "squad_82nd_glider_pio_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(3+)</c>82师机降工兵班[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> 82nd Glider Pioneer Squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> 82nd Glider Pioneer Squad [1944]",
+        "Cp": 0
+    },
+    "squad_82nd_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(4+)</c>82师空降步兵班[1944]",
+        "name_en": "<c(A5A095)>(4+)</c> 82nd Airborne Squad [1944]",
+        "name_es": "<c(A5A095)>(4+)</c> 82nd Airborne Squad [1944]",
+        "Cp": 0
+    },
+    "squad_82nd_eng_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(4+)</c>82空降工兵班[1944]",
+        "name_en": "<c(A5A095)>(4+)</c> 82nd Airborne Engineer Squad [1944]",
+        "name_es": "<c(A5A095)>(4+)</c> 82nd Airborne Engineer Squad [1944]",
+        "Cp": 0
+    },
+    "squad_82nd_demo_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(4+)</c>82师空降爆破分队[1944]",
+        "name_en": "<c(A5A095)>(4+)</c> 82nd Airborne Demolition Section [1944]",
+        "name_es": "<c(A5A095)>(4+)</c> 82nd Airborne Demolition Section [1944]",
+        "Cp": 0
+    },
+    "squad_ranger_assault_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>游骑兵突击分队[1944]",
+        "name_en": "<c(A5A095)>(4)</c> Ranger Assault Section [1944]",
+        "name_es": "<c(A5A095)>(4)</c> Ranger Assault Section [1944]",
+        "Cp": 0
+    },
+    "squad_ranger_assault_mg_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>游骑兵突击分队(机枪)[1944]",
+        "name_en": "<c(A5A095)>(4)</c> Ranger Assault Section (MG) [1944]",
+        "name_es": "<c(A5A095)>(4)</c> Ranger Assault Section (MG) [1944]",
+        "Cp": 0
+    },
+    "squad_ranger_special_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(4)</c>游骑兵特殊武器分队[1944]",
+        "name_en": "<c(A5A095)>(4)</c> Ranger Special Weapons Section [1944]",
+        "name_es": "<c(A5A095)>(4)</c> Ranger Special Weapons Section [1944]",
+        "Cp": 0
+    },
+    "squad_rifle_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>步枪班[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Rifle Squad [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Rifle Squad [1944]",
+        "Cp": 0
+    },
+    "squad_vet_rifle_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(2+)</c>精锐步枪班[1944]",
+        "name_en": "<c(A5A095)>(2+)</c> Veteran Rifle Squad [1944]",
+        "name_es": "<c(A5A095)>(2+)</c> Veteran Rifle Squad [1944]",
+        "Cp": 0
+    },
+    "squad_arm_rifle_mech_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>装甲步枪班(装甲车)[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Armored Rifle Squad (Mounted) [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Armored Rifle Squad (Mounted) [1944]",
+        "Cp": 0
+    },
+    "squad_2nd_arm_rifle_mech_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(2+)</c>第2装甲师步枪班(装甲车)[1944]",
+        "name_en": "<c(A5A095)>(2+)</c> 2nd.AD Rifle Squad (Mounted) [1944]",
+        "name_es": "<c(A5A095)>(2+)</c> 2nd.AD Rifle Squad (Mounted) [1944]",
+        "Cp": 0
+    },
+    "squad_1st_rifle_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(3+)</c>大红一师步枪班[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> 1st.Div Rifle Squad [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> 1st.Div Rifle Squad [1944]",
+        "Cp": 0
+    },
+    "squad_1st_arm_rifle_mech_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(3+)</c>第1装甲师步枪班(装甲车)[1944]",
+        "name_en": "<c(A5A095)>(3+)</c> 1st.AD Rifle Squad (Mounted) [1944]",
+        "name_es": "<c(A5A095)>(3+)</c> 1st.AD Rifle Squad (Mounted) [1944]",
+        "Cp": 0
+    },
+    "squad_eng_mech_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(2)</c>工兵班(装甲车)[1944]",
+        "name_en": "<c(A5A095)>(2)</c> Engineer Squad (Mounted) [1944]",
+        "name_es": "<c(A5A095)>(2)</c> Engineer Squad (Mounted) [1944]",
+        "Cp": 0
+    },
+    "squad_mountain_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(3)</c>山地步兵班[1945]",
+        "name_en": "<c(A5A095)>(3)</c> Mountain Rifle Squad [1945]",
+        "name_es": "<c(A5A095)>(3)</c> Mountain Rifle Squad [1945]",
+        "Cp": 0
+    },
+    "squad_mountain_pio_late_con(usa)": {
+        "name_cn": "<c(A5A095)>(3)</c>山地工兵班[1945]",
+        "name_en": "<c(A5A095)>(3)</c> Mountain Pioneer Squad [1945]",
+        "name_es": "<c(A5A095)>(3)</c> Mountain Pioneer Squad [1945]",
+        "Cp": 0
+    },
+    "single_at4_con(usa)": {
+        "name_cn": "M18无后坐力炮班",
+        "name_en": "M18 Recoilless Rifle Squad",
+        "name_es": "M18 Recoilless Rifle Squad",
+        "Cp": 0
+    },
+    "bedford_oyd": {
+        "name_cn": "贝德福德 OYD (运输)",
+        "name_en": "Bedford OYD (Transport)",
+        "name_es": "Bedford OYD (Transport)",
+        "Cp": 0
+    },
+    "universal_carrier_mk2": {
+        "name_cn": "通用运载车 Mk.II",
+        "name_en": "Universal Carrier Mk.II",
+        "name_es": "Universal Carrier Mk.II",
+        "Cp": 0
+    },
+    "sherman3_late": {
+        "name_cn": "谢尔曼 III (后期型)",
+        "name_en": "Sherman III (Late)",
+        "name_es": "Sherman III (Late)",
+        "Cp": 0
+    },
+    "valentine2": {
+        "name_cn": "瓦伦丁 Mk.II",
+        "name_en": "Valentine Mk.II",
+        "name_es": "Valentine Mk.II",
+        "Cp": 0
+    },
+    "valentine7": {
+        "name_cn": "瓦伦丁 Mk.VII",
+        "name_en": "Valentine Mk.VII",
+        "name_es": "Valentine Mk.VII",
+        "Cp": 0
+    },
+    "valentine9": {
+        "name_cn": "瓦伦丁 Mk.IX",
+        "name_en": "Valentine Mk.IX",
+        "name_es": "Valentine Mk.IX",
+        "Cp": 0
+    },
+    "churchill3": {
+        "name_cn": "丘吉尔 Mk.III",
+        "name_en": "Churchill Mk.III",
+        "name_es": "Churchill Mk.III",
+        "Cp": 0
+    },
+    "sherman5c": {
+        "name_cn": "谢尔曼 VC",
+        "name_en": "Sherman VC",
+        "name_es": "Sherman VC",
+        "Cp": 0
+    },
+    "81mm_krh36_mortar_barrage": {
+        "name_cn": "中型迫击炮弹幕",
+        "name_en": "Medium Mortar Barrage",
+        "name_es": "Medium Mortar Barrage",
+        "Cp": 0
+    },
+    "122mm_m1910_fin_smoke_barrage": {
+        "name_cn": "中型烟雾弹弹幕",
+        "name_en": "Medium Smoke Barrage",
+        "name_es": "Medium Smoke Barrage",
+        "Cp": 0
+    },
+    "122mm_m1910_fin_artillery_barrage": {
+        "name_cn": "中型火炮弹幕",
+        "name_en": "Medium Artillery Barrage",
+        "name_es": "Medium Artillery Barrage",
+        "Cp": 0
+    },
+    "120mm_krh40_mortar_barrage": {
+        "name_cn": "重型迫击炮弹幕",
+        "name_en": "Heavy Mortar Barrage",
+        "name_es": "Heavy Mortar Barrage",
+        "Cp": 0
+    },
+    "155mm_h17_artillery_barrage": {
+        "name_cn": "重型火炮弹幕",
+        "name_en": "Heavy Artillery Barrage",
+        "name_es": "Heavy Artillery Barrage",
+        "Cp": 0
+    },
+    "inf_crate_fin": {
+        "name_cn": "芬兰弹药箱",
+        "name_en": "Finnish Ammo Crate",
+        "name_es": "Finnish Ammo Crate",
+        "Cp": 0
+    },
+    "maxim_m1910_30": {
+        "name_cn": "马克沁 M1910/30",
+        "name_en": "Maxim M1910/30",
+        "name_es": "Maxim M1910/30",
+        "Cp": 0
+    },
+    "ds39_stand_fin": {
+        "name_cn": "DS-39(三脚架)",
+        "name_en": "DS-39 Stand",
+        "name_es": "DS-39 Stand",
+        "Cp": 0
+    },
+    "20mm_itk35": {
+        "name_cn": "20mm ItK/35 L/65 防空炮",
+        "name_en": "20 ItK/35 L/65",
+        "name_es": "20 ItK/35 L/65",
+        "Cp": 0
+    },
+    "20mm_l39": {
+        "name_cn": "20mm Pst Kiv/39",
+        "name_en": "20 Pst Kiv/39",
+        "name_es": "20 Pst Kiv/39",
+        "Cp": 0
+    },
+    "20mm_itk40": {
+        "name_cn": "20mm ItK/40 L/65 防空炮",
+        "name_en": "20 ItK/40 L/65",
+        "name_es": "20 ItK/40 L/65",
+        "Cp": 0
+    },
+    "37mm_pstk36": {
+        "name_cn": "37mm PstK/36 L/45 反坦克炮",
+        "name_en": "37 PstK/36 L/45",
+        "name_es": "37 PstK/36 L/45",
+        "Cp": 0
+    },
+    "40mm_itk38b": {
+        "name_cn": "40mm ItK/38b",
+        "name_en": "40 ItK/38b",
+        "name_es": "40 ItK/38b",
+        "Cp": 0
+    },
+    "45mm_pstk32": {
+        "name_cn": "45mm PstK/32",
+        "name_en": "45 PstK/32",
+        "name_es": "45 PstK/32",
+        "Cp": 0
+    },
+    "47mm_pstk39": {
+        "name_cn": "47mm PstK/39 L/32 反坦克炮",
+        "name_en": "47 PstK/39 L/32",
+        "name_es": "47 PstK/39 L/32",
+        "Cp": 0
+    },
+    "50mm_krh38": {
+        "name_cn": "50mm Krh/38 迫击炮",
+        "name_en": "50 Krh/38",
+        "name_es": "50 Krh/38",
+        "Cp": 0
+    },
+    "50mm_pstk38": {
+        "name_cn": "50mm PstK/38",
+        "name_en": "50 PstK/38",
+        "name_es": "50 PstK/38",
+        "Cp": 0
+    },
+    "50mm_pstk38_late": {
+        "name_cn": "50mm PstK/38",
+        "name_en": "50 PstK/38",
+        "name_es": "50 PstK/38",
+        "Cp": 0
+    },
+    "75mm_pstk9738": {
+        "name_cn": "75mm PstK/97-38 反坦克炮",
+        "name_en": "75 PstK/97-38",
+        "name_es": "75 PstK/97-38",
+        "Cp": 0
+    },
+    "75mm_k40": {
+        "name_cn": "75mm K/40",
+        "name_en": "75 K/40",
+        "name_es": "75 K/40",
+        "Cp": 0
+    },
+    "75mm_k44": {
+        "name_cn": "75mm K/44 L/55.7 反坦克炮",
+        "name_en": "75 K/44 L/55.7",
+        "name_es": "75 K/44 L/55.7",
+        "Cp": 0
+    },
+    "75mm_itk37": {
+        "name_cn": "75mm ItK/37 L/48 防空炮",
+        "name_en": "75 ItK/37 L/48",
+        "name_es": "75 ItK/37 L/48",
+        "Cp": 0
+    },
+    "75mm_itk37_stat": {
+        "name_cn": "75mm ItK/37(固定)",
+        "name_en": "75 ItK/37 (Static)",
+        "name_es": "75 ItK/37 (Static)",
+        "Cp": 0
+    },
+    "76mm_k02": {
+        "name_cn": "76mm K/02",
+        "name_en": "76 K/02",
+        "name_es": "76 K/02",
+        "Cp": 0
+    },
+    "76mm_k02_30_40": {
+        "name_cn": "76mm K/02-30/40",
+        "name_en": "76 K/02-30/40",
+        "name_es": "76 K/02-30/40",
+        "Cp": 0
+    },
+    "76mm_m1927_fin": {
+        "name_cn": "76mm RK/27",
+        "name_en": "76 RK/27",
+        "name_es": "76 RK/27",
+        "Cp": 0
+    },
+    "76mm_k36": {
+        "name_cn": "76mm K/36",
+        "name_en": "76 K/36",
+        "name_es": "76 K/36",
+        "Cp": 0
+    },
+    "81mm_krh36": {
+        "name_cn": "81mm Krh/36 迫击炮",
+        "name_en": "81 Krh/36",
+        "name_es": "81 Krh/36",
+        "Cp": 0
+    },
+    "84mm_k18": {
+        "name_cn": "84mm K/18 L/29.4 野战炮",
+        "name_en": "84 K/18 L/29.4",
+        "name_es": "84 K/18 L/29.4",
+        "Cp": 0
+    },
+    "84mm_k18_late": {
+        "name_cn": "84mm K/18(后期型)",
+        "name_en": "84 K/18 (Late)",
+        "name_es": "84 K/18 (Late)",
+        "Cp": 0
+    },
+    "105mm_h33": {
+        "name_cn": "105mm H/33",
+        "name_en": "105 H/33",
+        "name_es": "105 H/33",
+        "Cp": 0
+    },
+    "105mm_k13": {
+        "name_cn": "105mm K/13 L/28 野战炮",
+        "name_en": "105 K/13 L/28",
+        "name_es": "105 K/13 L/28",
+        "Cp": 0
+    },
+    "105mm_k34": {
+        "name_cn": "105mm K/34 L/42 野战炮",
+        "name_en": "105 K/34 L/42",
+        "name_es": "105 K/34 L/42",
+        "Cp": 0
+    },
+    "107mm_k10": {
+        "name_cn": "107mm K/10 L/28 野战炮",
+        "name_en": "107 K/10 L/28",
+        "name_es": "107 K/10 L/28",
+        "Cp": 0
+    },
+    "120mm_krh40": {
+        "name_cn": "120mm Krh/40 迫击炮",
+        "name_en": "120 Krh/40",
+        "name_es": "120 Krh/40",
+        "Cp": 0
+    },
+    "120mm_k78_31": {
+        "name_cn": "120mm K/78-31 L/27 榴弹炮",
+        "name_en": "120 K/78-31 L/27",
+        "name_es": "120 K/78-31 L/27",
+        "Cp": 0
+    },
+    "122mm_m1910_fin": {
+        "name_cn": "122mm H/10-30",
+        "name_en": "122 H/10-30",
+        "name_es": "122 H/10-30",
+        "Cp": 0
+    },
+    "150mm_rkh41": {
+        "name_cn": "150mm Rkh/41",
+        "name_en": "150 Rkh/41",
+        "name_es": "150 Rkh/41",
+        "Cp": 0
+    },
+    "150mm_h40": {
+        "name_cn": "150mm H/40",
+        "name_en": "150 H/40",
+        "name_es": "150 H/40",
+        "Cp": 0
+    },
+    "155mm_h17": {
+        "name_cn": "155mm H/17 L/15 榴弹炮",
+        "name_en": "155 H/17 L/15",
+        "name_es": "155 H/17 L/15",
+        "Cp": 0
+    },
+    "170mm_minewerfer": {
+        "name_cn": "17cm MinenWerfer",
+        "name_en": "17cm MinenWerfer",
+        "name_es": "17cm MinenWerfer",
+        "Cp": 0
+    },
+    "203mm_h17": {
+        "name_cn": "203mm H/17 L/16 榴弹炮",
+        "name_en": "203 H/17 L/16",
+        "name_es": "203 H/17 L/16",
+        "Cp": 0
+    },
+    "t20_fin": {
+        "name_cn": "T-20",
+        "name_en": "T-20",
+        "name_es": "T-20",
+        "Cp": 0
+    },
+    "ford_v3000": {
+        "name_cn": "福特 V3000S(运输)",
+        "name_en": "Ford V3000S (Transport)",
+        "name_es": "Ford V3000S (Transport)",
+        "Cp": 0
+    },
+    "ford_v3000_ammo": {
+        "name_cn": "福特 V3000S(补给)",
+        "name_en": "Ford V3000S (Supply)",
+        "name_es": "Ford V3000S (Supply)",
+        "Cp": 0
+    },
+    "ford_v3000_fuel": {
+        "name_cn": "福特V3000S(燃油)",
+        "name_en": "Ford V3000S (Fuel)",
+        "name_es": "Ford V3000S (Fuel)",
+        "Cp": 0
+    },
+    "ford_v3000_eng": {
+        "name_cn": "福特V3000S(工程)",
+        "name_en": "Ford V3000S (Engineering)",
+        "name_es": "Ford V3000S (Engineering)",
+        "Cp": 0
+    },
+    "ford_3ton": {
+        "name_cn": "福特三吨(运输)",
+        "name_en": "Ford 3-Ton (Transport)",
+        "name_es": "Ford 3-Ton (Transport)",
+        "Cp": 0
+    },
+    "ford_3ton_ammo": {
+        "name_cn": "福特三吨(补给)",
+        "name_en": "Ford 3-Ton (Supply)",
+        "name_es": "Ford 3-Ton (Supply)",
+        "Cp": 0
+    },
+    "ford_3ton_fuel": {
+        "name_cn": "福特三吨 (燃油)",
+        "name_en": "Ford 3-Ton (Fuel)",
+        "name_es": "Ford 3-Ton (Fuel)",
+        "Cp": 0
+    },
+    "ford_3ton_eng": {
+        "name_cn": "福特三吨(工程)",
+        "name_en": "Ford 3-Ton (Engineering)",
+        "name_es": "Ford 3-Ton (Engineering)",
+        "Cp": 0
+    },
+    "ford_3ton_breda": {
+        "name_cn": "福特三吨(加装20mm ItK/35)",
+        "name_en": "Ford 3-Ton (20 ItK/35)",
+        "name_es": "Ford 3-Ton (20 ItK/35)",
+        "Cp": 0
+    },
+    "l182": {
+        "name_cn": "兰德斯维克 182",
+        "name_en": "Landsverk 182",
+        "name_es": "Landsverk 182",
+        "Cp": 0
+    },
+    "ba6_fin": {
+        "name_cn": "BA-6",
+        "name_en": "BA-6",
+        "name_es": "BA-6",
+        "Cp": 0
+    },
+    "ba10_fin": {
+        "name_cn": "BA-10",
+        "name_en": "BA-10",
+        "name_es": "BA-10",
+        "Cp": 0
+    },
+    "ft17_fin": {
+        "name_cn": "FT-17",
+        "name_en": "FT-17",
+        "name_es": "FT-17",
+        "Cp": 0
+    },
+    "ft17_mg_fin": {
+        "name_cn": "FT-17(马克沁)",
+        "name_en": "FT-17 (Maxim)",
+        "name_es": "FT-17 (Maxim)",
+        "Cp": 0
+    },
+    "vickers_6t_altb": {
+        "name_cn": "维克斯6吨 Alt.B",
+        "name_en": "Vickers 6-Ton Alt.B",
+        "name_es": "Vickers 6-Ton Alt.B",
+        "Cp": 0
+    },
+    "t26e": {
+        "name_cn": "T-26E",
+        "name_en": "T-26E",
+        "name_es": "T-26E",
+        "Cp": 0
+    },
+    "bt42": {
+        "name_cn": "BT-42",
+        "name_en": "BT-42",
+        "name_es": "BT-42",
+        "Cp": 0
+    },
+    "t50_fin": {
+        "name_cn": "T-50",
+        "name_en": "T-50",
+        "name_es": "T-50",
+        "Cp": 0
+    },
+    "l62": {
+        "name_cn": "兰德斯维克 L-62 Anti II",
+        "name_en": "Landsverk L-62 Anti II",
+        "name_es": "Landsverk L-62 Anti II",
+        "Cp": 0
+    },
+    "kht130_fin": {
+        "name_cn": "KhT-130(喷火型)",
+        "name_en": "KhT-130 (Flame)",
+        "name_es": "KhT-130 (Flame)",
+        "Cp": 0
+    },
+    "stug3g_fin": {
+        "name_cn": "Stu 40 G",
+        "name_en": "Stu 40 G",
+        "name_es": "Stu 40 G",
+        "Cp": 0
+    },
+    "panzer4j_fin": {
+        "name_cn": "PzKw IVJ",
+        "name_en": "PzKw IVJ",
+        "name_es": "PzKw IVJ",
+        "Cp": 0
+    },
+    "t3476_41_fin": {
+        "name_cn": "T-34/76 M1941",
+        "name_en": "T-34/76 M1941",
+        "name_es": "T-34/76 M1941",
+        "Cp": 0
+    },
+    "t3485_44_fin": {
+        "name_cn": "T-34/85",
+        "name_en": "T-34/85",
+        "name_es": "T-34/85",
+        "Cp": 0
+    },
+    "t28_38_fin": {
+        "name_cn": "T-28 M1938",
+        "name_en": "T-28 M1938",
+        "name_es": "T-28 M1938",
+        "Cp": 0
+    },
+    "kv1_40e_fin": {
+        "name_cn": "KV-1E",
+        "name_en": "KV-1E",
+        "name_es": "KV-1E",
+        "Cp": 0
+    },
+    "kv1_42_fin": {
+        "name_cn": "KV-1 M1942",
+        "name_en": "KV-1 M1942",
+        "name_es": "KV-1 M1942",
+        "Cp": 0
+    },
+    "isu152_fin": {
+        "name_cn": "JSU 152",
+        "name_en": "JSU 152",
+        "name_es": "JSU 152",
+        "Cp": 0
+    },
+    "t37a_fin": {
+        "name_cn": "T-37A",
+        "name_en": "T-37A",
+        "name_es": "T-37A",
+        "Cp": 0
+    },
+    "t26_33_fin": {
+        "name_cn": "T-26B",
+        "name_en": "T-26B",
+        "name_es": "T-26B",
+        "Cp": 0
+    },
+    "bt5_fin": {
+        "name_cn": "BT-5",
+        "name_en": "BT-5",
+        "name_es": "BT-5",
+        "Cp": 0
+    },
+    "20mm_flakvierling38": {
+        "name_cn": "2cm 四联高射炮38型",
+        "name_en": "2cm Flakvierling 38",
+        "name_es": "2cm Flakvierling 38",
+        "Cp": 0
+    },
+    "105mm_lefh18_40": {
+        "name_cn": "10.5cm LeFH 18/40",
+        "name_en": "10.5cm LeFH 18/40",
+        "name_es": "10.5cm LeFH 18/40",
+        "Cp": 0
+    },
+    "210mm_k39": {
+        "name_cn": "21cm K39 L/45.4 榴弹炮",
+        "name_en": "21cm K39 L/45.4",
+        "name_es": "21cm K39 L/45.4",
+        "Cp": 0
+    },
+    "citroen_7_ger": {
+        "name_cn": "雪铁龙 7 (WH)",
+        "name_en": "Citroën 7 (WH)",
+        "name_es": "Citroën 7 (WH)",
+        "Cp": 0
+    },
+    "50mm_kwk39_platform": {
+        "name_cn": "5cm KwK 39 L/60",
+        "name_en": "5cm KwK 39 L/60",
+        "name_es": "5cm KwK 39 L/60",
+        "Cp": 0
+    },
+    "80mm_sgrw34_mortar_barrage": {
+        "name_cn": "中型迫击炮弹幕",
+        "name_en": "Medium Mortar Barrage",
+        "name_es": "Medium Mortar Barrage",
+        "Cp": 0
+    },
+    "105mm_lefh18_smoke_barrage": {
+        "name_cn": "中型烟雾弹弹幕",
+        "name_en": "Medium Smoke Barrage",
+        "name_es": "Medium Smoke Barrage",
+        "Cp": 0
+    },
+    "105mm_lefh18_artillery_barrage": {
+        "name_cn": "中型火炮弹幕",
+        "name_en": "Medium Artillery Barrage",
+        "name_es": "Medium Artillery Barrage",
+        "Cp": 0
+    },
+    "120mm_sgrw42_mortar_barrage": {
+        "name_cn": "重型迫击炮弹幕",
+        "name_en": "Heavy Mortar Barrage",
+        "name_es": "Heavy Mortar Barrage",
+        "Cp": 0
+    },
+    "150mm_sfh18_artillery_barrage": {
+        "name_cn": "重型火炮弹幕",
+        "name_en": "Heavy Artillery Barrage",
+        "name_es": "Heavy Artillery Barrage",
+        "Cp": 0
+    },
+    "inf_crate_ger": {
+        "name_cn": "国防军弹药箱",
+        "name_en": "Wehrmacht Ammo Crate",
+        "name_es": "Wehrmacht Ammo Crate",
+        "Cp": 0
+    },
+    "ammo_trailer": {
+        "name_cn": "Sd.Ah.51(补给)",
+        "name_en": "Sd.Ah.51 (Supply)",
+        "name_es": "Sd.Ah.51 (Supply)",
+        "Cp": 0
+    },
+    "mg34_lafette": {
+        "name_cn": "MG34(三脚架)",
+        "name_en": "Lafette MG 34",
+        "name_es": "Lafette MG 34",
+        "Cp": 0
+    },
+    "mg42_lafette": {
+        "name_cn": "MG42(三脚架)",
+        "name_en": "Lafette MG 42",
+        "name_es": "Lafette MG 42",
+        "Cp": 0
+    },
+    "heavy_mg_mg34": {
+        "name_cn": "MG34(三脚架)",
+        "name_en": "Lafette MG 34",
+        "name_es": "Lafette MG 34",
+        "Cp": 0
+    },
+    "20mm_flak30": {
+        "name_cn": "2cm Flak 30 L/65 防空炮",
+        "name_en": "2cm Flak 30 L/65",
+        "name_es": "2cm Flak 30 L/65",
+        "Cp": 0
+    },
+    "20mm_flak38": {
+        "name_cn": "2cm FlaK 38 L/112.5 防空炮",
+        "name_en": "2cm FlaK 38 L/112.5",
+        "name_es": "2cm FlaK 38 L/112.5",
+        "Cp": 0
+    },
+    "28mm_pzb41": {
+        "name_cn": "2.8cm sPzB 41 反坦克炮",
+        "name_en": "2.8cm sPzB 41",
+        "name_es": "2.8cm sPzB 41",
+        "Cp": 0
+    },
+    "37mm_flak37": {
+        "name_cn": "3.7cm FlaK 37 L/87 防空炮",
+        "name_en": "3.7cm FlaK 37 L/87",
+        "name_es": "3.7cm FlaK 37 L/87",
+        "Cp": 0
+    },
+    "37mm_pak36": {
+        "name_cn": "3.7cm PaK36",
+        "name_en": "3.7cm PaK",
+        "name_es": "3.7cm PaK",
+        "Cp": 0
+    },
+    "37mm_pak36_late": {
+        "name_cn": "3.7cm PaK36(后期型)",
+        "name_en": "3.7cm PaK",
+        "name_es": "3.7cm PaK",
+        "Cp": 0
+    },
+    "47mm_pakt": {
+        "name_cn": "4.7cm PaK(t) L/43.4 反坦克炮",
+        "name_en": "4.7cm PaK(t) L/43.4",
+        "name_es": "4.7cm PaK(t) L/43.4",
+        "Cp": 0
+    },
+    "50mm_pak38": {
+        "name_cn": "5cm PaK 38 L/60 反坦克炮",
+        "name_en": "5cm PaK 38 L/60",
+        "name_es": "5cm PaK 38 L/60",
+        "Cp": 0
+    },
+    "50mm_pak38_late": {
+        "name_cn": "5cm PaK 38(后期型)",
+        "name_en": "5cm PaK 38",
+        "name_es": "5cm PaK 38",
+        "Cp": 0
+    },
+    "75mm_legebig18": {
+        "name_cn": "7.5cm le Gebirg IG 18",
+        "name_en": "7.5cm le Gebirg IG 18",
+        "name_es": "7.5cm le Gebirg IG 18",
+        "Cp": 0
+    },
+    "75mm_legebig18_snow": {
+        "name_cn": "7.5cm le Gebirg IG 18",
+        "name_en": "7.5cm le Gebirg IG 18",
+        "name_es": "7.5cm le Gebirg IG 18",
+        "Cp": 0
+    },
+    "75mm_leig18": {
+        "name_cn": "7.5cm Le IG 18 L/11.8 步兵炮",
+        "name_en": "7.5cm StuK 40 L/48",
+        "name_es": "7.5cm StuK 40 L/48",
+        "Cp": 0
+    },
+    "75mm_pak40": {
+        "name_cn": "7.5cm PaK 40 L/46 反坦克炮",
+        "name_en": "7.5cm PaK 40 L/46",
+        "name_es": "7.5cm PaK 40 L/46",
+        "Cp": 0
+    },
+    "75mm_pak9738_late": {
+        "name_cn": "7.5cm PaK 97/38(后期型)",
+        "name_en": "7.5cm PaK 97/38",
+        "name_es": "7.5cm PaK 97/38",
+        "Cp": 0
+    },
+    "75mm_pak9738": {
+        "name_cn": "7.5cm PaK 97/38 L/34.5 反坦克炮",
+        "name_en": "7.5cm PaK 97/38 L/34.5",
+        "name_es": "7.5cm PaK 97/38 L/34.5",
+        "Cp": 0
+    },
+    "80mm_sgrw34": {
+        "name_cn": "8cm GrW 34 迫击炮",
+        "name_en": "8cm GrW 34",
+        "name_es": "8cm GrW 34",
+        "Cp": 0
+    },
+    "88mm_flak18": {
+        "name_cn": "8.8cm FlaK 18 L/56 防空炮",
+        "name_en": "8.8cm FlaK 18 L/56",
+        "name_es": "8.8cm FlaK 18 L/56",
+        "Cp": 0
+    },
+    "88mm_flak36": {
+        "name_cn": "8.8cm FlaK 36 L/56 防空炮",
+        "name_en": "8.8cm FlaK 36 L/56",
+        "name_es": "8.8cm FlaK 36 L/56",
+        "Cp": 0
+    },
+    "105mm_lefh18": {
+        "name_cn": "10.5cm FH 18 L/28 榴弹炮",
+        "name_en": "10.5cm FH 18 L/28",
+        "name_es": "10.5cm FH 18 L/28",
+        "Cp": 0
+    },
+    "120mm_sgrw42": {
+        "name_cn": "12cm GrW 42 迫击炮",
+        "name_en": "12cm GrW 42",
+        "name_es": "12cm GrW 42",
+        "Cp": 0
+    },
+    "150mm_nebelwerfer41": {
+        "name_cn": "15cm 喷烟者 41型",
+        "name_en": "15cm Nebelwerfer 41",
+        "name_es": "15cm Nebelwerfer 41",
+        "Cp": 0
+    },
+    "150mm_sfh18": {
+        "name_cn": "15cm sFH 18 L/30 榴弹炮",
+        "name_en": "15cm sFH 18 L/30",
+        "name_es": "15cm sFH 18 L/30",
+        "Cp": 0
+    },
+    "150mm_sig33": {
+        "name_cn": "15cm sIG 33 L/11 步兵炮",
+        "name_en": "15cm sIG 33 L/11",
+        "name_es": "15cm sIG 33 L/11",
+        "Cp": 0
+    },
+    "150mm_sig33_late": {
+        "name_cn": "15cm sIG 33(后期型)",
+        "name_en": "15cm sIG 33",
+        "name_es": "15cm sIG 33",
+        "Cp": 0
+    },
+    "210mm_morser18": {
+        "name_cn": "21cm Mörser 18",
+        "name_en": "21cm Mörser 18",
+        "name_es": "21cm Mörser 18",
+        "Cp": 0
+    },
+    "300mm_nebelwerfer42": {
+        "name_cn": "30cm 喷烟者 42型",
+        "name_en": "30cm Nebelwerfer 42",
+        "name_es": "30cm Nebelwerfer 42",
+        "Cp": 0
+    },
+    "kettenkrad": {
+        "name_cn": "SdKfz 2 半履带摩托车",
+        "name_en": "SdKfz 2 Kettenkraftrad",
+        "name_es": "SdKfz 2 Kettenkraftrad",
+        "Cp": 0
+    },
+    "kettenkrad_eng": {
+        "name_cn": "SdKfz 2 半履带摩托车(工程型)",
+        "name_en": "SdKfz 2 Kettenkraftrad (Engineer)",
+        "name_es": "SdKfz 2 Kettenkraftrad (Engineer)",
+        "Cp": 0
+    },
+    "kubelwagen": {
+        "name_cn": "VW82 桶车",
+        "name_en": "VW82 Kubelwagen",
+        "name_es": "VW82 Kubelwagen",
+        "Cp": 0
+    },
+    "kubelwagen_mg": {
+        "name_cn": "VW82 桶车",
+        "name_en": "VW82 Kubelwagen",
+        "name_es": "VW82 Kubelwagen",
+        "Cp": 0
+    },
+    "kubelwagen_dak": {
+        "name_cn": "VW82 桶车",
+        "name_en": "VW82 Kubelwagen",
+        "name_es": "VW82 Kubelwagen",
+        "Cp": 0
+    },
+    "blitz3_6": {
+        "name_cn": "欧宝 闪电(运输)",
+        "name_en": "Opel Blitz (Transport)",
+        "name_es": "Opel Blitz (Transport)",
+        "Cp": 0
+    },
+    "blitz3_6_art_ammo": {
+        "name_cn": "欧宝 闪电(补给)",
+        "name_en": "Opel Blitz (Supply)",
+        "name_es": "Opel Blitz (Supply)",
+        "Cp": 0
+    },
+    "blitz3_6_flak30": {
+        "name_cn": "欧宝 闪电(加装 2cm FlaK 30)",
+        "name_en": "Opel Blitz mit 2cm FlaK 30",
+        "name_es": "Opel Blitz mit 2cm FlaK 30",
+        "Cp": 0
+    },
+    "blitz3_6_engineering": {
+        "name_cn": "欧宝 闪电(工程型)",
+        "name_en": "Opel Blitz (Engineering)",
+        "name_es": "Opel Blitz (Engineering)",
+        "Cp": 0
+    },
+    "blitz3_6_fuel": {
+        "name_cn": "欧宝 闪电(燃油)",
+        "name_en": "Opel Blitz (Fuel)",
+        "name_es": "Opel Blitz (Fuel)",
+        "Cp": 0
+    },
+    "blitz3_6_radio": {
+        "name_cn": "欧宝 闪电",
+        "name_en": "Opel Blitz",
+        "name_es": "Opel Blitz",
+        "Cp": 0
+    },
+    "opel_maultier": {
+        "name_cn": "欧宝 骡式",
+        "name_en": "Opel Maultier",
+        "name_es": "Opel Maultier",
+        "Cp": 0
+    },
+    "sdkfz10": {
+        "name_cn": "Sd.Kfz 10",
+        "name_en": "Sd.Kfz 10",
+        "name_es": "Sd.Kfz 10",
+        "Cp": 0
+    },
+    "sdkfz10_pak38": {
+        "name_cn": "Sd.Kfz 10(加装 5cm PaK 38)",
+        "name_en": "Sd.Kfz 10 mit 5cm PaK 38",
+        "name_es": "Sd.Kfz 10 mit 5cm PaK 38",
+        "Cp": 0
+    },
+    "sdkfz221": {
+        "name_cn": "Sd.Kfz 221",
+        "name_en": "Sd.Kfz 221",
+        "name_es": "Sd.Kfz 221",
+        "Cp": 0
+    },
+    "sdkfz222a": {
+        "name_cn": "Sd.Kfz 222 Ausf.A",
+        "name_en": "Sd.Kfz 222 Ausf.A",
+        "name_es": "Sd.Kfz 222 Ausf.A",
+        "Cp": 0
+    },
+    "sdkfz231": {
+        "name_cn": "Sd.Kfz 231",
+        "name_en": "Sd.Kfz 231",
+        "name_es": "Sd.Kfz 231",
+        "Cp": 0
+    },
+    "sdkfz234_2": {
+        "name_cn": "Sd.Kfz 234“美洲狮”",
+        "name_en": "Sd.Kfz 234 'Puma'",
+        "name_es": "Sd.Kfz 234 'Puma'",
+        "Cp": 0
+    },
+    "sdkfz250a_1": {
+        "name_cn": "Sd.Kfz 250/1",
+        "name_en": "Sd.Kfz 250/1",
+        "name_es": "Sd.Kfz 250/1",
+        "Cp": 0
+    },
+    "sdkfz250a_3": {
+        "name_cn": "Sd.Kfz 250/3",
+        "name_en": "Sd.Kfz 250/3",
+        "name_es": "Sd.Kfz 250/3",
+        "Cp": 0
+    },
+    "sdkfz250a_9": {
+        "name_cn": "Sd.Kfz 250/9(加装 2cm KwK 38)",
+        "name_en": "Sd.Kfz 250/9 (2cm)",
+        "name_es": "Sd.Kfz 250/9 (2cm)",
+        "Cp": 0
+    },
+    "sdkfz250a_11": {
+        "name_cn": "Sd.Kfz 250/11(加装 sPzB 41)",
+        "name_en": "Sd.Kfz 250/11 (sPzB 41)",
+        "name_es": "Sd.Kfz 250/11 (sPzB 41)",
+        "Cp": 0
+    },
+    "sdkfz251d_1": {
+        "name_cn": "Sd.Kfz 251/1 Ausf. D",
+        "name_en": "Sd.Kfz 251/1 Ausf. D",
+        "name_es": "Sd.Kfz 251/1 Ausf. D",
+        "Cp": 0
+    },
+    "sdkfz251c": {
+        "name_cn": "Sd.Kfz 251/1 Ausf.C",
+        "name_en": "Sd.Kfz 251/1 Ausf. C",
+        "name_es": "Sd.Kfz 251/1 Ausf. C",
+        "Cp": 0
+    },
+    "sdkfz251c_tarp": {
+        "name_cn": "Sd.Kfz 251/1 Ausf.C",
+        "name_en": "Sd.Kfz 251/1 Ausf. C",
+        "name_es": "Sd.Kfz 251/1 Ausf. C",
+        "Cp": 0
+    },
+    "p204_f": {
+        "name_cn": "Pz.SpW.P204(f)",
+        "name_en": "Pz.SpW. P204(f)",
+        "name_es": "Pz.SpW. P204(f)",
+        "Cp": 0
+    },
+    "sdkfz8_flak18": {
+        "name_cn": "Sd.Kfz 8(加装 8.8cm FlaK 18)",
+        "name_en": "Sd.Kfz 8 mit FlaK 18",
+        "name_es": "Sd.Kfz 8 mit FlaK 18",
+        "Cp": 0
+    },
+    "panzer1b": {
+        "name_cn": "一号坦克B型",
+        "name_en": "Pz.Kpfw I Ausf.B",
+        "name_es": "Pz.Kpfw I Ausf.B",
+        "Cp": 0
+    },
+    "panzer1f": {
+        "name_cn": "一号坦克F型",
+        "name_en": "Pz.Kpfw I Ausf.F",
+        "name_es": "Pz.Kpfw I Ausf.F",
+        "Cp": 0
+    },
+    "panzerjager1": {
+        "name_cn": "一号坦克歼击车",
+        "name_en": "Panzerjäger I",
+        "name_es": "Panzerjäger I",
+        "Cp": 0
+    },
+    "bison": {
+        "name_cn": "一号突击坦克“野牛”",
+        "name_en": "Sturmpanzer I",
+        "name_es": "Sturmpanzer I",
+        "Cp": 0
+    },
+    "grille_m": {
+        "name_cn": "蟋蟀M型(加装 3cm MK 103)",
+        "name_en": "Grille Ausf.M mit 3cm MK 103",
+        "name_es": "Grille Ausf.M mit 3cm MK 103",
+        "Cp": 0
+    },
+    "panzer2c": {
+        "name_cn": "二号坦克C型",
+        "name_en": "Pz.Kpfw II Ausf.C",
+        "name_es": "Pz.Kpfw II Ausf.C",
+        "Cp": 0
+    },
+    "panzer2f": {
+        "name_cn": "二号坦克F型",
+        "name_en": "Pz.Kpfw II Ausf.F",
+        "name_es": "Pz.Kpfw II Ausf.F",
+        "Cp": 0
+    },
+    "panzer2l": {
+        "name_cn": "二号坦克L型",
+        "name_en": "Pz.Kpfw II Ausf.L",
+        "name_es": "Pz.Kpfw II Ausf.L",
+        "Cp": 0
+    },
+    "marder2": {
+        "name_cn": "黄鼠狼II",
+        "name_en": "Marder II",
+        "name_es": "Marder II",
+        "Cp": 0
+    },
+    "marder3m": {
+        "name_cn": "黄鼠狼III M型",
+        "name_en": "Marder III Ausf.M",
+        "name_es": "Marder III Ausf.M",
+        "Cp": 0
+    },
+    "pz35t": {
+        "name_cn": "Pz.Kpfw 35(t)",
+        "name_en": "Pz.Kpfw 35(t)",
+        "name_es": "Pz.Kpfw 35(t)",
+        "Cp": 0
+    },
+    "pz38t_a": {
+        "name_cn": "38(t)坦克A型",
+        "name_en": "Pz.Kpfw 38(t) Ausf.A",
+        "name_es": "Pz.Kpfw 38(t) Ausf.A",
+        "Cp": 0
+    },
+    "pz38t_f": {
+        "name_cn": "38(t)坦克F型",
+        "name_en": "Pz.Kpfw 38(t) Ausf.F",
+        "name_es": "Pz.Kpfw 38(t) Ausf.F",
+        "Cp": 0
+    },
+    "pz38t_g": {
+        "name_cn": "38(t)坦克G型",
+        "name_en": "Pz.Kpfw 38(t) Ausf.G",
+        "name_es": "Pz.Kpfw 38(t) Ausf.G",
+        "Cp": 0
+    },
+    "panzer742r": {
+        "name_cn": "Pz.Kpfw 742(r) 'BT'",
+        "name_en": "Pz.Kpfw 742(r) 'BT'",
+        "name_es": "Pz.Kpfw 742(r) 'BT'",
+        "Cp": 0
+    },
+    "panzer731r": {
+        "name_cn": "Pz.Kpfw 731(r) 'T-37'",
+        "name_en": "Pz.Kpfw 731(r) 'T-37'",
+        "name_es": "Pz.Kpfw 731(r) 'T-37'",
+        "Cp": 0
+    },
+    "hetzer": {
+        "name_cn": "38(t) 坦克歼击车",
+        "name_en": "Jagdpanzer 38(t)",
+        "name_es": "Jagdpanzer 38(t)",
+        "Cp": 0
+    },
+    "panzer3e": {
+        "name_cn": "三号坦克E型",
+        "name_en": "Pz.Kpfw III Ausf.E",
+        "name_es": "Pz.Kpfw III Ausf.E",
+        "Cp": 0
+    },
+    "panzer3f": {
+        "name_cn": "三号坦克F型",
+        "name_en": "Pz.Kpfw III Ausf.F",
+        "name_es": "Pz.Kpfw III Ausf.F",
+        "Cp": 0
+    },
+    "panzer3j": {
+        "name_cn": "三号坦克J型",
+        "name_en": "Pz.Kpfw III Ausf.J",
+        "name_es": "Pz.Kpfw III Ausf.J",
+        "Cp": 0
+    },
+    "panzer3j1": {
+        "name_cn": "三号坦克J/1型",
+        "name_en": "Pz.Kpfw III Ausf.J/1",
+        "name_es": "Pz.Kpfw III Ausf.J/1",
+        "Cp": 0
+    },
+    "panzer3l": {
+        "name_cn": "三号坦克L型",
+        "name_en": "Pz.Kpfw III Ausf.L",
+        "name_es": "Pz.Kpfw III Ausf.L",
+        "Cp": 0
+    },
+    "panzer3m": {
+        "name_cn": "三号坦克M型",
+        "name_en": "Pz.Kpfw III Ausf.M",
+        "name_es": "Pz.Kpfw III Ausf.M",
+        "Cp": 0
+    },
+    "panzer3n": {
+        "name_cn": "三号坦克N型",
+        "name_en": "Pz.Kpfw III Ausf.N",
+        "name_es": "Pz.Kpfw III Ausf.N",
+        "Cp": 0
+    },
+    "panzer3_flamm": {
+        "name_cn": "三号喷火坦克",
+        "name_en": "Pz.Kpfw III Flamm.",
+        "name_es": "Pz.Kpfw III Flamm.",
+        "Cp": 0
+    },
+    "stug3b": {
+        "name_cn": "三号突击炮B型",
+        "name_en": "StuG III Ausf.B",
+        "name_es": "StuG III Ausf.B",
+        "Cp": 0
+    },
+    "stug3f": {
+        "name_cn": "三号突击炮F型",
+        "name_en": "StuG III Ausf.F",
+        "name_es": "StuG III Ausf.F",
+        "Cp": 0
+    },
+    "stug3g": {
+        "name_cn": "三号突击炮G型(早期型)",
+        "name_en": "StuG III Ausf.G (Early)",
+        "name_es": "StuG III Ausf.G (Early)",
+        "Cp": 0
+    },
+    "stug3g_late": {
+        "name_cn": "三号突击炮G型(后期型)",
+        "name_en": "StuG III Ausf.G (Late)",
+        "name_es": "StuG III Ausf.G (Late)",
+        "Cp": 0
+    },
+    "stuh42": {
+        "name_cn": "42式突击榴弹炮G型",
+        "name_en": "StuH 42 Ausf.G",
+        "name_es": "StuH 42 Ausf.G",
+        "Cp": 0
+    },
+    "sig33b": {
+        "name_cn": "SiG 33 B",
+        "name_en": "SiG 33 B",
+        "name_es": "SiG 33 B",
+        "Cp": 0
+    },
+    "panzer4d": {
+        "name_cn": "四号坦克D型",
+        "name_en": "Pz.Kpfw IV Ausf.D",
+        "name_es": "Pz.Kpfw IV Ausf.D",
+        "Cp": 0
+    },
+    "panzer4f1": {
+        "name_cn": "四号坦克F1型",
+        "name_en": "Pz.Kpfw IV Ausf.F1",
+        "name_es": "Pz.Kpfw IV Ausf.F1",
+        "Cp": 0
+    },
+    "panzer4f2": {
+        "name_cn": "四号坦克F2型",
+        "name_en": "Pz.Kpfw IV Ausf.F2",
+        "name_es": "Pz.Kpfw IV Ausf.F2",
+        "Cp": 0
+    },
+    "panzer4g": {
+        "name_cn": "四号坦克G型",
+        "name_en": "Pz.Kpfw IV Ausf.G",
+        "name_es": "Pz.Kpfw IV Ausf.G",
+        "Cp": 0
+    },
+    "panzer4h": {
+        "name_cn": "四号坦克H型",
+        "name_en": "Pz.Kpfw IV Ausf.H",
+        "name_es": "Pz.Kpfw IV Ausf.H",
+        "Cp": 0
+    },
+    "panzer4j": {
+        "name_cn": "四号坦克J型",
+        "name_en": "Pz.Kpfw IV Ausf.J",
+        "name_es": "Pz.Kpfw IV Ausf.J",
+        "Cp": 0
+    },
+    "sturmpanzer4": {
+        "name_cn": "四号突击坦克“灰熊”",
+        "name_en": "Sturmpanzer IV",
+        "name_es": "Sturmpanzer IV",
+        "Cp": 0
+    },
+    "panzer5d": {
+        "name_cn": "五号坦克“豹式”D型",
+        "name_en": "Pz.Kpfw Panther Ausf.D",
+        "name_es": "Pz.Kpfw Panther Ausf.D",
+        "Cp": 0
+    },
+    "panzer5a": {
+        "name_cn": "五号坦克“豹式”A型",
+        "name_en": "Pz.Kpfw Panther Ausf.A",
+        "name_es": "Pz.Kpfw Panther Ausf.A",
+        "Cp": 0
+    },
+    "panzer5g": {
+        "name_cn": "五号坦克“豹式”G型",
+        "name_en": "Pz.Kpfw Panther Ausf.G",
+        "name_es": "Pz.Kpfw Panther Ausf.G",
+        "Cp": 0
+    },
+    "jagdpanther": {
+        "name_cn": "猎豹",
+        "name_en": "Jagdpanther",
+        "name_es": "Jagdpanther",
+        "Cp": 0
+    },
+    "tiger1h": {
+        "name_cn": "六号坦克“虎式”H型 ",
+        "name_en": "Pz.Kpfw VI 'Tiger' Ausf.H",
+        "name_es": "Pz.Kpfw VI 'Tiger' Ausf.H",
+        "Cp": 0
+    },
+    "tiger1e": {
+        "name_cn": "六号坦克“虎式”E型 ",
+        "name_en": "Pz.Kpfw VI 'Tiger' Ausf.E",
+        "name_es": "Pz.Kpfw VI 'Tiger' Ausf.E",
+        "Cp": 0
+    },
+    "tiger1hunt": {
+        "name_cn": "六号坦克E型“王牌虎式”",
+        "name_en": "Pz.Kpfw VI 'Ace Tiger' Ausf.E",
+        "name_es": "Pz.Kpfw VI 'Ace Tiger' Ausf.E",
+        "Cp": 0
+    },
+    "ferdinand": {
+        "name_cn": "斐迪南",
+        "name_en": "Ferdinand",
+        "name_es": "Ferdinand",
+        "Cp": 0
+    },
+    "sturmtiger": {
+        "name_cn": "38cm R.W.61“突击虎”",
+        "name_en": "38cm R.W.61 'Sturmtiger'",
+        "name_es": "38cm R.W.61 'Sturmtiger'",
+        "Cp": 0
+    },
+    "tiger2h": {
+        "name_cn": "六号坦克B型“虎王”",
+        "name_en": "Pz.Kpfw VI/B 'Königstiger'",
+        "name_es": "Pz.Kpfw VI/B 'Königstiger'",
+        "Cp": 0
+    },
+    "tiger2p": {
+        "name_cn": "六号坦克B型“虎王” 早期型",
+        "name_en": "Pz.Kpfw VI/B 'Königstiger' Early Production",
+        "name_es": "Pz.Kpfw VI/B 'Königstiger' Early Production",
+        "Cp": 0
+    },
+    "jagdtiger": {
+        "name_cn": "猎虎",
+        "name_en": "Jagdtiger",
+        "name_es": "Jagdtiger",
+        "Cp": 0
+    },
+    "pz756r": {
+        "name_cn": "",
+        "name_en": "Pz.Kpfw 756(r) 'KW-IB KwK 40 L/43'",
+        "name_es": "Pz.Kpfw 756(r) 'KW-IB KwK 40 L/43'",
+        "Cp": 0
+    },
+    "88mm_pak4341": {
+        "name_cn": "8.8cm PaK 43/41",
+        "name_en": "8.8cm PaK 43/41",
+        "name_es": "8.8cm PaK 43/41",
+        "Cp": 0
+    },
+    "170mm_k18": {
+        "name_cn": "17cm K 18 L/49 加农炮",
+        "name_en": "17cm K 18 L/49",
+        "name_es": "17cm K 18 L/49",
+        "Cp": 0
+    },
+    "600mm_thor": {
+        "name_cn": "60cm 卡尔臼炮 Nr. III",
+        "name_en": "60cm Gerät Nr. III",
+        "name_es": "60cm Gerät Nr. III",
+        "Cp": 0
+    },
+    "grille_k": {
+        "name_cn": "蟋蟀K型(加装 15cm sIG 33)",
+        "name_en": "Grille Ausf.K (15cm)",
+        "name_es": "Grille Ausf.K (15cm)",
+        "Cp": 0
+    },
+    "ostwind": {
+        "name_cn": "FlakPz.IV 东风",
+        "name_en": "FlakPz.IV Ostwind",
+        "name_es": "FlakPz.IV Ostwind",
+        "Cp": 0
+    },
+    "sdkfz6_cargo": {
+        "name_cn": "Sd.Kfz 6",
+        "name_en": "Sd.Kfz 6",
+        "name_es": "Sd.Kfz 6",
+        "Cp": 0
+    },
+    "sdkfz234_1": {
+        "name_cn": "Sd.Kfz 234/1(2cm Kwk 38)",
+        "name_en": "Sd.Kfz 234/1 (2cm)",
+        "name_es": "Sd.Kfz 234/1 (2cm)",
+        "Cp": 0
+    },
+    "sdkfz234_3": {
+        "name_cn": "Sd.Kfz 234/3(7.5cm K 51)",
+        "name_en": "Sd.Kfz 234/3 (7.5cm)",
+        "name_es": "Sd.Kfz 234/3 (7.5cm)",
+        "Cp": 0
+    },
+    "sdkfz234_4": {
+        "name_cn": "Sd.Kfz 234/4(7.5cm PaK 40)",
+        "name_en": "Sd.Kfz 234/4 (7.5cm PaK 40)",
+        "name_es": "Sd.Kfz 234/4 (7.5cm PaK 40)",
+        "Cp": 0
+    },
+    "wirbelwind": {
+        "name_cn": "FlakPz.IV 旋风",
+        "name_en": "FlakPz.IV Wirbelwind",
+        "name_es": "FlakPz.IV Wirbelwind",
+        "Cp": 0
+    },
+    "panzernest_krab": {
+        "name_cn": "钢制碉堡",
+        "name_en": "Panzernest",
+        "name_es": "Panzernest",
+        "Cp": 0
+    },
+    "panzernest_krab_ger": {
+        "name_cn": "MG34碉堡",
+        "name_en": "MG34 Bunker",
+        "name_es": "MG34 Bunker",
+        "Cp": 0
+    },
+    "50mm_flak41": {
+        "name_cn": "5cm Flak 41 L/87 防空炮",
+        "name_en": "5cm Flak 41 L/87",
+        "name_es": "5cm Flak 41 L/87",
+        "Cp": 0
+    },
+    "75mm_lg40": {
+        "name_cn": "7.5cm LG 40 L/12 无后坐力炮",
+        "name_en": "7.5cm LG 40 L/12",
+        "name_es": "7.5cm LG 40 L/12",
+        "Cp": 0
+    },
+    "100mm_nbw35": {
+        "name_cn": "10.5cm NbW 35 迫击炮",
+        "name_en": "10.5cm NbW 35",
+        "name_es": "10.5cm NbW 35",
+        "Cp": 0
+    },
+    "105mm_sk18": {
+        "name_cn": "10.5cm sK 18 L/52 野战炮",
+        "name_en": "10.5cm sK 18 L/52",
+        "name_es": "10.5cm sK 18 L/52",
+        "Cp": 0
+    },
+    "200mm_ldgw40": {
+        "name_cn": "20cm Ldg.W. 40 迫击炮",
+        "name_en": "20cm Ldg.W. 40",
+        "name_es": "20cm Ldg.W. 40",
+        "Cp": 0
+    },
+    "210mm_nebelwerfer42": {
+        "name_cn": "21cm 喷烟者42型",
+        "name_en": "21cm Nebelwerfer 42",
+        "name_es": "21cm Nebelwerfer 42",
+        "Cp": 0
+    },
+    "150mm_sw34": {
+        "name_cn": "150cm 34型防空探照灯",
+        "name_en": "150cm Flak-Scheinwerfer 34",
+        "name_es": "150cm Flak-Scheinwerfer 34",
+        "Cp": 0
+    },
+    "150mm_sw34_ger": {
+        "name_cn": "150cm 34型防空探照灯",
+        "name_en": "150cm Flak-Scheinwerfer 34",
+        "name_es": "150cm Flak-Scheinwerfer 34",
+        "Cp": 0
+    },
+    "m42_truppenfahrrad": {
+        "name_cn": "M42军用自行车",
+        "name_en": "M42 Truppenfahrrad",
+        "name_es": "M42 Truppenfahrrad",
+        "Cp": 0
+    },
+    "bmw_r71": {
+        "name_cn": "宝马 R71(加装MG34)",
+        "name_en": "BMW R71 (MG34)",
+        "name_es": "BMW R71 (MG34)",
+        "Cp": 0
+    },
+    "kfz13": {
+        "name_cn": "Kfz.13(MG34)",
+        "name_en": "Kfz.13 (MG34)",
+        "name_es": "Kfz.13 (MG34)",
+        "Cp": 0
+    },
+    "kfz15": {
+        "name_cn": "Kfz.15(加装MG34)",
+        "name_en": "Kfz.15 (MG34)",
+        "name_es": "Kfz.15 (MG34)",
+        "Cp": 0
+    },
+    "sdkfz6_2": {
+        "name_cn": "Sd.Kfz 6/2(加装 3.7cm FlaK 37)",
+        "name_en": "Sd.Kfz 6/2 (3.7cm FlaK)",
+        "name_es": "Sd.Kfz 6/2 (3.7cm FlaK)",
+        "Cp": 0
+    },
+    "sdkfz251c_2": {
+        "name_cn": "Sd.Kfz 251/2(加装 8cm GrW 34)",
+        "name_en": "Sd.Kfz 251/2 (8cm GrW)",
+        "name_es": "Sd.Kfz 251/2 (8cm GrW)",
+        "Cp": 0
+    },
+    "sdkfz7": {
+        "name_cn": "Sd.Kfz 7(运输型) ",
+        "name_en": "Sd.Kfz 7 (Transport)",
+        "name_es": "Sd.Kfz 7 (Transport)",
+        "Cp": 0
+    },
+    "sdkfz7_2": {
+        "name_cn": "Sd.Kfz 7/2(加装 3.7cm FlaK 37)",
+        "name_en": "Sd.Kfz 7/2 (3.7cm FlaK)",
+        "name_es": "Sd.Kfz 7/2 (3.7cm FlaK)",
+        "Cp": 0
+    },
+    "sdkfz10_4": {
+        "name_cn": "Sd.kfz 10/4(加装 2cm Flak 30)",
+        "name_en": "Sd.kfz 10/4 (2cm)",
+        "name_es": "Sd.kfz 10/4 (2cm)",
+        "Cp": 0
+    },
+    "pz38h_735": {
+        "name_cn": "Pz.Kpfw 38H",
+        "name_en": "Pz.Kpfw 38H",
+        "name_es": "Pz.Kpfw 38H",
+        "Cp": 0
+    },
+    "pz38h_w40": {
+        "name_cn": "Pz.Kpfw 38H(40式火箭发射架)",
+        "name_en": "Pz.Kpfw 38H (Wurfrahmen 40)",
+        "name_es": "Pz.Kpfw 38H (Wurfrahmen 40)",
+        "Cp": 0
+    },
+    "panzer35s": {
+        "name_cn": "Pz.Kpfw 35S(f)",
+        "name_en": "Pz.Kpfw 35S(f)",
+        "name_es": "Pz.Kpfw 35S(f)",
+        "Cp": 0
+    },
+    "panzer3h": {
+        "name_cn": "三号坦克H型",
+        "name_en": "Pz.Kpfw III Ausf.H",
+        "name_es": "Pz.Kpfw III Ausf.H",
+        "Cp": 0
+    },
+    "panzerb2": {
+        "name_cn": "Pz.Kpfw B2",
+        "name_en": "Pz.Kpfw B2",
+        "name_es": "Pz.Kpfw B2",
+        "Cp": 0
+    },
+    "sdkfz7_1": {
+        "name_cn": "",
+        "name_en": "Sd.Kfz 7/1 (2cm)",
+        "name_es": "Sd.Kfz 7/1 (2cm)",
+        "Cp": 0
+    },
+    "kfz70": {
+        "name_cn": "Kfz.70(运输车)",
+        "name_en": "Kfz.70 (Transport)",
+        "name_es": "Kfz.70 (Transport)",
+        "Cp": 0
+    },
+    "155mm_gpf_ger": {
+        "name_cn": "15.5cm GPF K 418(f)",
+        "name_en": "15.5cm GPF K 418(f)",
+        "name_es": "15.5cm GPF K 418(f)",
+        "Cp": 0
+    },
+    "h39_turret": {
+        "name_cn": "H39 炮塔",
+        "name_en": "H39 Turret",
+        "name_es": "H39 Turret",
+        "Cp": 0
+    },
+    "mgun_ring": {
+        "name_cn": "MG42(支架)",
+        "name_en": "MG42 Mount",
+        "name_es": "MG42 Mount",
+        "Cp": 0
+    },
+    "schwimmwagen": {
+        "name_cn": "大众166型两栖车",
+        "name_en": "VW166 Schwimmwagen",
+        "name_es": "VW166 Schwimmwagen",
+        "Cp": 0
+    },
+    "hummel": {
+        "name_cn": "野蜂",
+        "name_en": "Hummel",
+        "name_es": "Hummel",
+        "Cp": 0
+    },
+    "jagdpanzer4_l48": {
+        "name_cn": "四号坦克歼击车",
+        "name_en": "Jagdpanzer IV",
+        "name_es": "Jagdpanzer IV",
+        "Cp": 0
+    },
+    "jagdpanzer4_l48_early": {
+        "name_cn": "四号坦克歼击车(早期型)",
+        "name_en": "Jagdpanzer IV (Early)",
+        "name_es": "Jagdpanzer IV (Early)",
+        "Cp": 0
+    },
+    "panzer4_70_v": {
+        "name_cn": "四号坦克歼击车L70(V)",
+        "name_en": "Panzer IV/70 (V)",
+        "name_es": "Panzer IV/70 (V)",
+        "Cp": 0
+    },
+    "nashorn": {
+        "name_cn": "犀牛",
+        "name_en": "Nashorn",
+        "name_es": "Nashorn",
+        "Cp": 0
+    },
+    "infantry_cart_if8": {
+        "name_cn": "If.8 型步兵拖车(补给)",
+        "name_en": "Infantry Cart If.8 (Supply)",
+        "name_es": "Infantry Cart If.8 (Supply)",
+        "Cp": 0
+    },
+    "wespe": {
+        "name_cn": "黃蜂",
+        "name_en": "Wespe",
+        "name_es": "Wespe",
+        "Cp": 0
+    },
+    "panzerwerfer42": {
+        "name_cn": "42型自走火箭炮",
+        "name_en": "Panzerwerfer 42",
+        "name_es": "Panzerwerfer 42",
+        "Cp": 0
+    },
+    "sdkfz251d_1_stuka": {
+        "name_cn": "Sd.Kfz 251/1 Ausf. D(40式火箭发射架)",
+        "name_en": "Sd.Kfz 251/1 Ausf. D (Wurfrahmen 40)",
+        "name_es": "Sd.Kfz 251/1 Ausf. D (Wurfrahmen 40)",
+        "Cp": 0
+    },
+    "sdkfz251d_16": {
+        "name_cn": "Sd.Kfz 251/16 Ausf. D (14mm喷火器)",
+        "name_en": "Sd.Kfz 251/16 Ausf. D (14mm Flamm)",
+        "name_es": "Sd.Kfz 251/16 Ausf. D (14mm Flamm)",
+        "Cp": 0
+    },
+    "sdkfz251d_17": {
+        "name_cn": "Sd.Kfz 251/17 Ausf. D (2cm机炮)",
+        "name_en": "Sd.Kfz 251/17 Ausf. D (2cm)",
+        "name_es": "Sd.Kfz 251/17 Ausf. D (2cm)",
+        "Cp": 0
+    },
+    "sdkfz251d_21": {
+        "name_cn": "Sd.Kfz 251/21 Ausf. D (三联装15mm机炮)",
+        "name_en": "Sd.Kfz 251/21 Ausf. D (15mm Drilling)",
+        "name_es": "Sd.Kfz 251/21 Ausf. D (15mm Drilling)",
+        "Cp": 0
+    },
+    "sdkfz251d_22": {
+        "name_cn": "Sd.Kfz 251/22 Ausf. D (7.5cm PaK 40)",
+        "name_en": "Sd.Kfz 251/22 Ausf. D (7.5cm PaK 40)",
+        "name_es": "Sd.Kfz 251/22 Ausf. D (7.5cm PaK 40)",
+        "Cp": 0
+    },
+    "82mm_bm37_mortar_barrage": {
+        "name_cn": "中型迫击炮弹幕",
+        "name_en": "Medium Mortar Barrage",
+        "name_es": "Medium Mortar Barrage",
+        "Cp": 0
+    },
+    "122mm_m1910_smoke_barrage": {
+        "name_cn": "中型烟雾弹弹幕",
+        "name_en": "Medium Smoke Barrage",
+        "name_es": "Medium Smoke Barrage",
+        "Cp": 0
+    },
+    "122mm_m1910_artillery_barrage": {
+        "name_cn": "中型火炮弹幕",
+        "name_en": "Medium Artillery Barrage",
+        "name_es": "Medium Artillery Barrage",
+        "Cp": 0
+    },
+    "120mm_pm38_mortar_barrage": {
+        "name_cn": "重型迫击炮弹幕",
+        "name_en": "Heavy Mortar Barrage",
+        "name_es": "Heavy Mortar Barrage",
+        "Cp": 0
+    },
+    "152mm_ml20_artillery_barrage": {
+        "name_cn": "重型火炮弹幕",
+        "name_en": "Heavy Artillery Barrage",
+        "name_es": "Heavy Artillery Barrage",
+        "Cp": 0
+    },
+    "inf_crate_rus": {
+        "name_cn": "苏军弹药箱",
+        "name_en": "Soviet Ammo Crate",
+        "name_es": "Soviet Ammo Crate",
+        "Cp": 0
+    },
+    "broneschitok_1": {
+        "name_cn": "步枪护盾",
+        "name_en": "Gun Shield",
+        "name_es": "Gun Shield",
+        "Cp": 0
+    },
+    "broneschitok_2": {
+        "name_cn": "步枪护盾(雪橇型)",
+        "name_en": "Gun Shield (Ski)",
+        "name_es": "Gun Shield (Ski)",
+        "Cp": 0
+    },
+    "maxim": {
+        "name_cn": "马克沁 M1910/30",
+        "name_en": "Maxim M1910/30",
+        "name_es": "Maxim M1910/30",
+        "Cp": 0
+    },
+    "maxim_stand": {
+        "name_cn": "马克沁 M1910/30(轮式枪架)",
+        "name_en": "Maxim M1910/30 Stand",
+        "name_es": "Maxim M1910/30 Stand",
+        "Cp": 0
+    },
+    "sg43_stand": {
+        "name_cn": "SG-43(轮式枪架)",
+        "name_en": "SG-43 Stand",
+        "name_es": "SG-43 Stand",
+        "Cp": 0
+    },
+    "dshk_aa": {
+        "name_cn": "德仕卡 M1938",
+        "name_en": "DShK M1938",
+        "name_es": "DShK M1938",
+        "Cp": 0
+    },
+    "dshk_stan": {
+        "name_cn": "德仕卡 M1938(轮式枪架)",
+        "name_en": "DShK M1938 Stand",
+        "name_es": "DShK M1938 Stand",
+        "Cp": 0
+    },
+    "25mm_72k": {
+        "name_cn": "25mm 72-K M1940 L/76.6 防空炮",
+        "name_en": "25mm obr. 1940 L/76.6",
+        "name_es": "25mm obr. 1940 L/76.6",
+        "Cp": 0
+    },
+    "37mm_61k": {
+        "name_cn": "37mm 61-K M1939 L/62.1 防空炮",
+        "name_en": "37mm obr. 1939 L/62.1",
+        "name_es": "37mm obr. 1939 L/62.1",
+        "Cp": 0
+    },
+    "37mm_m30": {
+        "name_cn": "",
+        "name_en": "37mm 1-K M1930",
+        "name_es": "37mm 1-K M1930",
+        "Cp": 0
+    },
+    "45mm_m37": {
+        "name_cn": "45mm M1937 L/46 反坦克炮",
+        "name_en": "45mm obr. 1938 L/46",
+        "name_es": "45mm obr. 1938 L/46",
+        "Cp": 0
+    },
+    "45mm_m42": {
+        "name_cn": "45mm M1942 L/66 反坦克炮",
+        "name_en": "45mm obr. 1942 L/66",
+        "name_es": "45mm obr. 1942 L/66",
+        "Cp": 0
+    },
+    "57mm_zis2": {
+        "name_cn": "57mm ZIS-2 L/72.9 反坦克炮",
+        "name_en": "57mm ZIS-2 L/72.9",
+        "name_es": "57mm ZIS-2 L/72.9",
+        "Cp": 0
+    },
+    "57mm_zis2_late": {
+        "name_cn": "",
+        "name_en": "57mm ZIS-2 M1941",
+        "name_es": "57mm ZIS-2 M1941",
+        "Cp": 0
+    },
+    "76mm_m1902": {
+        "name_cn": "76mm M1902 L/30 野战炮",
+        "name_en": "76mm obr. 1902 L/30",
+        "name_es": "76mm obr. 1902 L/30",
+        "Cp": 0
+    },
+    "76mm_m1927": {
+        "name_cn": "76.2mm M1927 L/16.5 步兵炮",
+        "name_en": "76.2mm obr. 1927 L/16.5",
+        "name_es": "76.2mm obr. 1927 L/16.5",
+        "Cp": 0
+    },
+    "76mm_m1927_late": {
+        "name_cn": "",
+        "name_en": "76mm M1927",
+        "name_es": "76mm M1927",
+        "Cp": 0
+    },
+    "76mm_m43": {
+        "name_cn": "76mm OB-25 M1943",
+        "name_en": "76mm OB-25 M1943",
+        "name_es": "76mm OB-25 M1943",
+        "Cp": 0
+    },
+    "76mm_f22": {
+        "name_cn": "76mm F22 L/51.2 野战炮",
+        "name_en": "76mm F22 L/51.2",
+        "name_es": "76mm F22 L/51.2",
+        "Cp": 0
+    },
+    "76mm_zis3": {
+        "name_cn": "76mm ZIS-3 L/51.6 反坦克炮",
+        "name_en": "76mm ZIS-3 L/51.6",
+        "name_es": "76mm ZIS-3 L/51.6",
+        "Cp": 0
+    },
+    "82mm_bm37": {
+        "name_cn": "82mm BM-37 迫击炮",
+        "name_en": "82mm BM-37",
+        "name_es": "82mm BM-37",
+        "Cp": 0
+    },
+    "85mm_52k": {
+        "name_cn": "85mm L/55 防空炮",
+        "name_en": "85mm L/55",
+        "name_es": "85mm L/55",
+        "Cp": 0
+    },
+    "100mm_bs3": {
+        "name_cn": "100mm BS-3 L/59.6 反坦克炮",
+        "name_en": "100mm BS-3 L/59.6",
+        "name_es": "100mm BS-3 L/59.6",
+        "Cp": 0
+    },
+    "m41_ampulomet": {
+        "name_cn": "安普洛梅特 M1941",
+        "name_en": "Ampulomet M1941",
+        "name_es": "Ampulomet M1941",
+        "Cp": 0
+    },
+    "120mm_pm38": {
+        "name_cn": "120mm PM-38 迫击炮",
+        "name_en": "120mm PM-38",
+        "name_es": "120mm PM-38",
+        "Cp": 0
+    },
+    "122mm_m30": {
+        "name_cn": "122mm M-30 L/22 榴弹炮",
+        "name_en": "122mm M-30 L/22",
+        "name_es": "122mm M-30 L/22",
+        "Cp": 0
+    },
+    "122mm_a19": {
+        "name_cn": "122mm A-19 M1931/37",
+        "name_en": "122mm A-19 M1931/37",
+        "name_es": "122mm A-19 M1931/37",
+        "Cp": 0
+    },
+    "152mm_ml20": {
+        "name_cn": "152mm ML-20 L/29 榴弹炮",
+        "name_en": "152mm ML-20 L/29",
+        "name_es": "152mm ML-20 L/29",
+        "Cp": 0
+    },
+    "203mm_b4": {
+        "name_cn": "203mm B4 L/25 榴弹炮",
+        "name_en": "203mm B4 L/25",
+        "name_es": "203mm B4 L/25",
+        "Cp": 0
+    },
+    "gaz67b": {
+        "name_cn": "GAZ-67b",
+        "name_en": "GAZ-67b",
+        "name_es": "GAZ-67b",
+        "Cp": 0
+    },
+    "gaz67": {
+        "name_cn": "GAZ-67",
+        "name_en": "GAZ-67",
+        "name_es": "GAZ-67",
+        "Cp": 0
+    },
+    "gaz_aaa": {
+        "name_cn": "GAZ-AAA(运输)",
+        "name_en": "GAZ-AAA (Transport)",
+        "name_es": "GAZ-AAA (Transport)",
+        "Cp": 0
+    },
+    "gaz_aaa_supply": {
+        "name_cn": "GAZ-AAA(补给)",
+        "name_en": "GAZ-AAA (Supply)",
+        "name_es": "GAZ-AAA (Supply)",
+        "Cp": 0
+    },
+    "gaz_aaa_72k": {
+        "name_cn": "GAZ-AAA 72-K",
+        "name_en": "GAZ-AAA 72-K",
+        "name_es": "GAZ-AAA 72-K",
+        "Cp": 0
+    },
+    "gaz_fuel": {
+        "name_cn": "GAZ-AAA(燃油)",
+        "name_en": "GAZ-AAA (Fuel)",
+        "name_es": "GAZ-AAA (Fuel)",
+        "Cp": 0
+    },
+    "bm13_studebaker": {
+        "name_cn": "BM-13“喀秋莎”",
+        "name_en": "BM-13 Katyusha",
+        "name_es": "BM-13 Katyusha",
+        "Cp": 0
+    },
+    "bm31_12": {
+        "name_cn": "BM-31-12“安德柳莎”",
+        "name_en": "BM-31-12 Katyusha",
+        "name_es": "BM-31-12 Katyusha",
+        "Cp": 0
+    },
+    "zis5": {
+        "name_cn": "ZIS-5",
+        "name_en": "ZIS-5",
+        "name_es": "ZIS-5",
+        "Cp": 0
+    },
+    "zis5eng": {
+        "name_cn": "ZIS-5(工程)",
+        "name_en": "ZIS-5 (Engineering)",
+        "name_es": "ZIS-5 (Engineering)",
+        "Cp": 0
+    },
+    "ba6": {
+        "name_cn": "BA-6",
+        "name_en": "BA-6",
+        "name_es": "BA-6",
+        "Cp": 0
+    },
+    "ba10": {
+        "name_cn": "BA-10",
+        "name_en": "BA-10",
+        "name_es": "BA-10",
+        "Cp": 0
+    },
+    "ba20": {
+        "name_cn": "BA-20",
+        "name_en": "BA-20",
+        "name_es": "BA-20",
+        "Cp": 0
+    },
+    "ba64": {
+        "name_cn": "BA-64B",
+        "name_en": "BA-64B",
+        "name_es": "BA-64B",
+        "Cp": 0
+    },
+    "nkl26": {
+        "name_cn": "NKL-26",
+        "name_en": "NKL-26",
+        "name_es": "NKL-26",
+        "Cp": 0
+    },
+    "stalinetz60": {
+        "name_cn": "斯大林涅茨-60",
+        "name_en": "Stalinets-60",
+        "name_es": "Stalinets-60",
+        "Cp": 0
+    },
+    "t20": {
+        "name_cn": "T-20",
+        "name_en": "T-20",
+        "name_es": "T-20",
+        "Cp": 0
+    },
+    "t27": {
+        "name_cn": "T-27",
+        "name_en": "T-27",
+        "name_es": "T-27",
+        "Cp": 0
+    },
+    "300mm_m30": {
+        "name_cn": "M-31-4 (4x300mm火箭弹)",
+        "name_en": "M-31-4 (4x300mm Rockets)",
+        "name_es": "M-31-4 (4x300mm Rockets)",
+        "Cp": 0
+    },
+    "300mm_m31": {
+        "name_cn": "M-31-8 (8x300mm火箭弹)",
+        "name_en": "M-31-8 (8x300mm Rockets)",
+        "name_es": "M-31-8 (8x300mm Rockets)",
+        "Cp": 0
+    },
+    "bt2": {
+        "name_cn": "BT-2",
+        "name_en": "BT-2",
+        "name_es": "BT-2",
+        "Cp": 0
+    },
+    "bt2_da2": {
+        "name_cn": "BT-2 DA-2",
+        "name_en": "BT-2 DA-2",
+        "name_es": "BT-2 DA-2",
+        "Cp": 0
+    },
+    "bt5": {
+        "name_cn": "BT-5 M1934",
+        "name_en": "BT-5 M1934",
+        "name_es": "BT-5 M1934",
+        "Cp": 0
+    },
+    "bt7": {
+        "name_cn": "BT-7 M1937",
+        "name_en": "BT-7 M1937",
+        "name_es": "BT-7 M1937",
+        "Cp": 0
+    },
+    "bt7a": {
+        "name_cn": "BT-7A",
+        "name_en": "BT-7A",
+        "name_es": "BT-7A",
+        "Cp": 0
+    },
+    "t37a": {
+        "name_cn": "T-37A",
+        "name_en": "T-37A",
+        "name_es": "T-37A",
+        "Cp": 0
+    },
+    "t40": {
+        "name_cn": "T-40 M1940",
+        "name_en": "T-40 M1940",
+        "name_es": "T-40 M1940",
+        "Cp": 0
+    },
+    "t30": {
+        "name_cn": "T-30 M1941",
+        "name_en": "T-30 M1941",
+        "name_es": "T-30 M1941",
+        "Cp": 0
+    },
+    "t60": {
+        "name_cn": "T-60 M1941",
+        "name_en": "T-60 M1941",
+        "name_es": "T-60 M1941",
+        "Cp": 0
+    },
+    "kht26": {
+        "name_cn": "KhT-26(喷火)",
+        "name_en": "KhT-26 (Flame)",
+        "name_es": "KhT-26 (Flame)",
+        "Cp": 0
+    },
+    "t26_31": {
+        "name_cn": "T-26 M1931",
+        "name_en": "T-26 M1931",
+        "name_es": "T-26 M1931",
+        "Cp": 0
+    },
+    "t26_33": {
+        "name_cn": "T-26 M1933",
+        "name_en": "T-26 M1933",
+        "name_es": "T-26 M1933",
+        "Cp": 0
+    },
+    "t26_38": {
+        "name_cn": "T-26 M1938",
+        "name_en": "T-26 M1938",
+        "name_es": "T-26 M1938",
+        "Cp": 0
+    },
+    "t26_39": {
+        "name_cn": "T-26 M1939",
+        "name_en": "T-26 M1939",
+        "name_es": "T-26 M1939",
+        "Cp": 0
+    },
+    "t70": {
+        "name_cn": "T-70 M1942",
+        "name_en": "T-70 M1942",
+        "name_es": "T-70 M1942",
+        "Cp": 0
+    },
+    "t70m": {
+        "name_cn": "T-70M M1943",
+        "name_en": "T-70M M1943",
+        "name_es": "T-70M M1943",
+        "Cp": 0
+    },
+    "su76": {
+        "name_cn": "SU-76",
+        "name_en": "SU-76",
+        "name_es": "SU-76",
+        "Cp": 0
+    },
+    "zis30": {
+        "name_cn": "Zis-30",
+        "name_en": "Zis-30",
+        "name_es": "Zis-30",
+        "Cp": 0
+    },
+    "su85": {
+        "name_cn": "SU-85",
+        "name_en": "SU-85",
+        "name_es": "SU-85",
+        "Cp": 0
+    },
+    "su100": {
+        "name_cn": "SU-100",
+        "name_en": "SU-100",
+        "name_es": "SU-100",
+        "Cp": 0
+    },
+    "su122": {
+        "name_cn": "SU-122",
+        "name_en": "SU-122",
+        "name_es": "SU-122",
+        "Cp": 0
+    },
+    "t28": {
+        "name_cn": "T-28 M1937",
+        "name_en": "T-28 M1937",
+        "name_es": "T-28 M1937",
+        "Cp": 0
+    },
+    "t28_38": {
+        "name_cn": "",
+        "name_en": "T-28 M1938",
+        "name_es": "T-28 M1938",
+        "Cp": 0
+    },
+    "t3476_40": {
+        "name_cn": "T-34-76 M1940",
+        "name_en": "T-34-76 M1940",
+        "name_es": "T-34-76 M1940",
+        "Cp": 0
+    },
+    "t3476_41": {
+        "name_cn": "T-34-76 M1941",
+        "name_en": "T-34-76 M1941",
+        "name_es": "T-34-76 M1941",
+        "Cp": 0
+    },
+    "t3457_41": {
+        "name_cn": "T-34-57 M1941",
+        "name_en": "T-34-57 M1941",
+        "name_es": "T-34-57 M1941",
+        "Cp": 0
+    },
+    "t3476_42": {
+        "name_cn": "T-34-76 M1942",
+        "name_en": "T-34-76 M1942",
+        "name_es": "T-34-76 M1942",
+        "Cp": 0
+    },
+    "t3457_43": {
+        "name_cn": "T-34-57 M1943",
+        "name_en": "T-34-57 M1943",
+        "name_es": "T-34-57 M1943",
+        "Cp": 0
+    },
+    "t3476_43": {
+        "name_cn": "T-34-76 M1943",
+        "name_en": "T-34-76 M1943",
+        "name_es": "T-34-76 M1943",
+        "Cp": 0
+    },
+    "t3476_43_flame": {
+        "name_cn": "OT-34 M1943(喷火)",
+        "name_en": "OT-34 M1943 (Flame)",
+        "name_es": "OT-34 M1943 (Flame)",
+        "Cp": 0
+    },
+    "t3485_44": {
+        "name_cn": "T-34-85 M1944",
+        "name_en": "T-34-85 M1944",
+        "name_es": "T-34-85 M1944",
+        "Cp": 0
+    },
+    "kv1_40": {
+        "name_cn": "KV-1 M1940",
+        "name_en": "KV-1 M1940",
+        "name_es": "KV-1 M1940",
+        "Cp": 0
+    },
+    "kv1_41": {
+        "name_cn": "KV-1 M1941",
+        "name_en": "KV-1 M1941",
+        "name_es": "KV-1 M1941",
+        "Cp": 0
+    },
+    "kv1s": {
+        "name_cn": "KV-1S M1942",
+        "name_en": "KV-1S M1942",
+        "name_es": "KV-1S M1942",
+        "Cp": 0
+    },
+    "kv2_40": {
+        "name_cn": "KV-2 M1940",
+        "name_en": "KV-2 M1940",
+        "name_es": "KV-2 M1940",
+        "Cp": 0
+    },
+    "kv85": {
+        "name_cn": "KV-85",
+        "name_en": "KV-85",
+        "name_es": "KV-85",
+        "Cp": 0
+    },
+    "su152": {
+        "name_cn": "SU-152",
+        "name_en": "SU-152",
+        "name_es": "SU-152",
+        "Cp": 0
+    },
+    "su152_late": {
+        "name_cn": "SU-152",
+        "name_en": "SU-152",
+        "name_es": "SU-152",
+        "Cp": 0
+    },
+    "su100y": {
+        "name_cn": "SU-100Y",
+        "name_en": "SU-100Y",
+        "name_es": "SU-100Y",
+        "Cp": 0
+    },
+    "is1_43": {
+        "name_cn": "IS-1 M1943",
+        "name_en": "IS-1 M1943",
+        "name_es": "IS-1 M1943",
+        "Cp": 0
+    },
+    "is2_43": {
+        "name_cn": "IS-2 M1943",
+        "name_en": "IS-2 M1943",
+        "name_es": "IS-2 M1943",
+        "Cp": 0
+    },
+    "is2_44": {
+        "name_cn": "IS-2 M1944",
+        "name_en": "IS-2 M1944",
+        "name_es": "IS-2 M1944",
+        "Cp": 0
+    },
+    "isu152": {
+        "name_cn": "ISU-152",
+        "name_en": "ISU-152",
+        "name_es": "ISU-152",
+        "Cp": 0
+    },
+    "m3a1e1_scout": {
+        "name_cn": "M3A1E1侦察车",
+        "name_en": "M3A1E1 Scout Car",
+        "name_es": "M3A1E1 Scout Car",
+        "Cp": 0
+    },
+    "m3a1e1_scout_mgun": {
+        "name_cn": "M3A1E1侦察车(加装 .50口径 M2HB)",
+        "name_en": "M3A1E1 Scout Car (MG)",
+        "name_es": "M3A1E1 Scout Car (MG)",
+        "Cp": 0
+    },
+    "universal_carrier_rus": {
+        "name_cn": "通用运载车",
+        "name_en": "Universal Carrier",
+        "name_es": "Universal Carrier",
+        "Cp": 0
+    },
+    "mmg_carrier_rus": {
+        "name_cn": "通用运载车(加装 马克沁 M1910/30)",
+        "name_en": "Carrier Medium MG",
+        "name_es": "Carrier Medium MG",
+        "Cp": 0
+    },
+    "isu122s": {
+        "name_cn": "ISU-122S",
+        "name_en": "ISU-122S",
+        "name_es": "ISU-122S",
+        "Cp": 0
+    },
+    "305mm_mb_2_12": {
+        "name_cn": "305mm MB-2-12",
+        "name_en": "305mm MB-2-12",
+        "name_es": "305mm MB-2-12",
+        "Cp": 0
+    },
+    "kv8": {
+        "name_cn": "KV-8(喷火)",
+        "name_en": "KV-8 (Flame)",
+        "name_es": "KV-8 (Flame)",
+        "Cp": 0
+    },
+    "is2_45": {
+        "name_cn": "IS-2 M1945",
+        "name_en": "IS-2 M1945",
+        "name_es": "IS-2 M1945",
+        "Cp": 0
+    },
+    "m3_stuart_late_rus": {
+        "name_cn": "M3 斯图亚特(后期型)",
+        "name_en": "M3 Stuart (Late)",
+        "name_es": "M3 Stuart (Late)",
+        "Cp": 0
+    },
+    "m4a2_75_late_rus": {
+        "name_cn": "M4A2 谢尔曼(后期型)",
+        "name_en": "M4A2 (Late)",
+        "name_es": "M4A2 (Late)",
+        "Cp": 0
+    },
+    "m4a2_76w_early_rus": {
+        "name_cn": "M4A2(76)W 谢尔曼(早期型)",
+        "name_en": "M4A2(76)W (Early)",
+        "name_es": "M4A2(76)W (Early)",
+        "Cp": 0
+    },
+    "m4a2_76w_late_rus": {
+        "name_cn": "M4A2(76)W 谢尔曼(后期型)",
+        "name_en": "M4A2(76)W (Late)",
+        "name_es": "M4A2(76)W (Late)",
+        "Cp": 0
+    },
+    "su26": {
+        "name_cn": "SU-26",
+        "name_en": "SU-26",
+        "name_es": "SU-26",
+        "Cp": 0
+    },
+    "su85m": {
+        "name_cn": "SU-85M",
+        "name_en": "SU-85M",
+        "name_es": "SU-85M",
+        "Cp": 0
+    },
+    "t3476_41e": {
+        "name_cn": "T-34E",
+        "name_en": "Shielded T-34",
+        "name_es": "Shielded T-34",
+        "Cp": 0
+    },
+    "t3485_44_flame": {
+        "name_cn": "OT-34-85(喷火)",
+        "name_en": "OT-34-85 (Flame)",
+        "name_es": "OT-34-85 (Flame)",
+        "Cp": 0
+    },
+    "t3485_44a": {
+        "name_cn": "T-34-85 M1944",
+        "name_en": "T-34-85 M1944",
+        "name_es": "T-34-85 M1944",
+        "Cp": 0
+    },
+    "t3485_44a_flame": {
+        "name_cn": "OT-34-85(喷火)",
+        "name_en": "OT-34-85 (Flame)",
+        "name_es": "OT-34-85 (Flame)",
+        "Cp": 0
+    },
+    "t3485_44b": {
+        "name_cn": "T-34-85 M1944(格栅装甲)",
+        "name_en": "T-34-85 M1944",
+        "name_es": "T-34-85 M1944",
+        "Cp": 0
+    },
+    "ds39_stand": {
+        "name_cn": "DS-39(三角架)",
+        "name_en": "DS-39 Stand",
+        "name_es": "DS-39 Stand",
+        "Cp": 0
+    },
+    "76mm_bpk76": {
+        "name_cn": "76mm BPK-76 L/30 无后坐力炮",
+        "name_en": "76mm BPK-76 L/30",
+        "name_es": "76mm BPK-76 L/30",
+        "Cp": 0
+    },
+    "76mm_m1933": {
+        "name_cn": "76mm M1933 L/50.3 野战炮",
+        "name_en": "76mm M1933 L/50.3",
+        "name_es": "76mm M1933 L/50.3",
+        "Cp": 0
+    },
+    "107mm_m1910_30": {
+        "name_cn": "107mm M1910/30",
+        "name_en": "107mm M1910/30",
+        "name_es": "107mm M1910/30",
+        "Cp": 0
+    },
+    "122mm_m1910": {
+        "name_cn": "122mm M1910 L/12.8 榴弹炮",
+        "name_en": "122mm M1910 L/12.8",
+        "name_es": "122mm M1910 L/12.8",
+        "Cp": 0
+    },
+    "152mm_br2": {
+        "name_cn": "152mm Br-2 L/47.2 榴弹炮",
+        "name_en": "152mm Br-2 L/47.2",
+        "name_es": "152mm Br-2 L/47.2",
+        "Cp": 0
+    },
+    "280mm_br5": {
+        "name_cn": "280mm Br-5 L/17 迫击炮",
+        "name_en": "280mm Br-5 L/17",
+        "name_es": "280mm Br-5 L/17",
+        "Cp": 0
+    },
+    "ap_2": {
+        "name_cn": "2-AP-3(补给)",
+        "name_en": "2-AP-3 (Supply)",
+        "name_es": "2-AP-3 (Supply)",
+        "Cp": 0
+    },
+    "m72": {
+        "name_cn": "M72 (DP-27)",
+        "name_en": "M72 (DP-27)",
+        "name_es": "M72 (DP-27)",
+        "Cp": 0
+    },
+    "gaz_aaa_maximx4": {
+        "name_cn": "GAZ-AAA(四联装马克沁)",
+        "name_en": "GAZ-AAA (Quad Maxim)",
+        "name_es": "GAZ-AAA (Quad Maxim)",
+        "Cp": 0
+    },
+    "zis5_dshk": {
+        "name_cn": "ZIS-5(德仕卡)",
+        "name_en": "ZIS-5 (DShK)",
+        "name_es": "ZIS-5 (DShK)",
+        "Cp": 0
+    },
+    "fai_m": {
+        "name_cn": "FAI-M",
+        "name_en": "FAI-M",
+        "name_es": "FAI-M",
+        "Cp": 0
+    },
+    "ba20_command": {
+        "name_cn": "BA-20 指挥车",
+        "name_en": "BA-20 Command",
+        "name_es": "BA-20 Command",
+        "Cp": 0
+    },
+    "t50": {
+        "name_cn": "T-50",
+        "name_en": "T-50",
+        "name_es": "T-50",
+        "Cp": 0
+    },
+    "t28e": {
+        "name_cn": "T-28E",
+        "name_en": "T-28E",
+        "name_es": "T-28E",
+        "Cp": 0
+    },
+    "t35": {
+        "name_cn": "T-35 M1936",
+        "name_en": "T-35 M1936",
+        "name_es": "T-35 M1936",
+        "Cp": 0
+    },
+    "t35_late": {
+        "name_cn": "T-35 M1938",
+        "name_en": "T-35 M1938",
+        "name_es": "T-35 M1938",
+        "Cp": 0
+    },
+    "kht130": {
+        "name_cn": "KhT-130(喷火)",
+        "name_en": "KhT-130 (Flame)",
+        "name_es": "KhT-130 (Flame)",
+        "Cp": 0
+    },
+    "kv1_39": {
+        "name_cn": "KV-1 M1939",
+        "name_en": "KV-1 M1939",
+        "name_es": "KV-1 M1939",
+        "Cp": 0
+    },
+    "kv1_40e": {
+        "name_cn": "KV-1 E",
+        "name_en": "KV-1 E",
+        "name_es": "KV-1 E",
+        "Cp": 0
+    },
+    "kv1_42": {
+        "name_cn": "KV-1 M1942",
+        "name_en": "KV-1 M1942",
+        "name_es": "KV-1 M1942",
+        "Cp": 0
+    },
+    "smk": {
+        "name_cn": "SMK",
+        "name_en": "SMK",
+        "name_es": "SMK",
+        "Cp": 0
+    },
+    "yag10_29k": {
+        "name_cn": "YaG-10 29-K",
+        "name_en": "YaG-10 29-K",
+        "name_es": "YaG-10 29-K",
+        "Cp": 0
+    },
+    "zis6_bm8_48": {
+        "name_cn": "BM-8-48 (ZiS-6)",
+        "name_en": "BM-8-48 (ZiS-6)",
+        "name_es": "BM-8-48 (ZiS-6)",
+        "Cp": 0
+    },
+    "zis6_bm13_16": {
+        "name_cn": "BM-13-16 (ZiS-6)",
+        "name_en": "BM-13-16 (ZiS-6)",
+        "name_es": "BM-13-16 (ZiS-6)",
+        "Cp": 0
+    },
+    "t60_bm8_24": {
+        "name_cn": "BM-8-24 (T-60)",
+        "name_en": "BM-8-24 (T-60)",
+        "name_es": "BM-8-24 (T-60)",
+        "Cp": 0
+    },
+    "76mm_m1938": {
+        "name_cn": "76mm M1938 L/55 防空炮",
+        "name_en": "76mm M1938 L/55",
+        "name_es": "76mm M1938 L/55",
+        "Cp": 0
+    },
+    "m3a1_stuart_rus": {
+        "name_cn": "M3A1 斯图亚特",
+        "name_en": "M3A1 Stuart",
+        "name_es": "M3A1 Stuart",
+        "Cp": 0
+    },
+    "m3_lee_rus": {
+        "name_cn": "M3 李",
+        "name_en": "M3 Lee",
+        "name_es": "M3 Lee",
+        "Cp": 0
+    },
+    "m4a2_75_early_rus": {
+        "name_cn": "M4A2(早期型)",
+        "name_en": "M4A2 (Early)",
+        "name_es": "M4A2 (Early)",
+        "Cp": 0
+    },
+    "t1e3_m4a1_75": {
+        "name_cn": "T1E3 M4A1(后期型)",
+        "name_en": "T1E3 M4A1 (Late)",
+        "name_es": "T1E3 M4A1 (Late)",
+        "Cp": 0
+    },
+    "ammo_trailer_usa": {
+        "name_cn": "货物拖车 1/4-吨 (补给)",
+        "name_en": "Cargo Trailer 1/4-Ton (Supply)",
+        "name_es": "Cargo Trailer 1/4-Ton (Supply)",
+        "Cp": 0
+    },
+    "m3a1_scout": {
+        "name_cn": "M3A1 侦察车",
+        "name_en": "M3A1 Scout Car",
+        "name_es": "M3A1 Scout Car",
+        "Cp": 0
+    },
+    "citroen_7_civ": {
+        "name_cn": "雪铁龙“前驱”",
+        "name_en": "Citroën 7",
+        "name_es": "Citroën 7",
+        "Cp": 0
+    },
+    "renault_agr_civ": {
+        "name_cn": "雷诺 AGR",
+        "name_en": "Renault AGR",
+        "name_es": "Renault AGR",
+        "Cp": 0
+    },
+    "conquest_blank": {
+        "name_cn": "",
+        "name_en": " ",
+        "name_es": " ",
+        "Cp": 0
+    },
+    "m1917_30cal": {
+        "name_cn": "勃朗宁 M1917A1",
+        "name_en": "Browning M1917A1",
+        "name_es": "Browning M1917A1",
+        "Cp": 0
+    },
+    "m2_30cal_tripod": {
+        "name_cn": "勃朗宁 M1919A4",
+        "name_en": "Browning M1919A4",
+        "name_es": "Browning M1919A4",
+        "Cp": 0
+    },
+    "m2_50cal_tripod": {
+        "name_cn": "勃朗宁M2HB",
+        "name_en": "Browning M2HB",
+        "name_es": "Browning M2HB",
+        "Cp": 0
+    },
+    "37mm_m3": {
+        "name_cn": "37mm M3 L/53.5 反坦克炮",
+        "name_en": "37mm Gun M3 L/53.5",
+        "name_es": "37mm Gun M3 L/53.5",
+        "Cp": 0
+    },
+    "37mm_m3a1": {
+        "name_cn": "37mm M3A1",
+        "name_en": "37mm Gun M3A1",
+        "name_es": "37mm Gun M3A1",
+        "Cp": 0
+    },
+    "40mm_m1": {
+        "name_cn": "博福斯 40mm M1 L/60 防空炮",
+        "name_en": "Bofors 40mm Gun M1 L/60",
+        "name_es": "Bofors 40mm Gun M1 L/60",
+        "Cp": 0
+    },
+    "50cal_quad_m45": {
+        "name_cn": "M55 四联防空机枪",
+        "name_en": "M55 Quadmount",
+        "name_es": "M55 Quadmount",
+        "Cp": 0
+    },
+    "50mm_rocket_projector": {
+        "name_cn": "2-英寸 火箭助推爪钩发射器",
+        "name_en": "2-inch Rocket Projector",
+        "name_es": "2-inch Rocket Projector",
+        "Cp": 0
+    },
+    "57mm_m1": {
+        "name_cn": "57mm Gun M1 L/50反坦克炮",
+        "name_en": "57mm Gun M1 L/50反坦克炮",
+        "name_es": "57mm Gun M1 L/50反坦克炮",
+        "Cp": 0
+    },
+    "57mm_m1_early": {
+        "name_cn": "57mm M1(早期型)",
+        "name_en": "57mm Gun M1 (Early)",
+        "name_es": "57mm Gun M1 (Early)",
+        "Cp": 0
+    },
+    "57mm_m1_late": {
+        "name_cn": "57mm M1(后期型)",
+        "name_en": "57mm Gun M1 (Late)",
+        "name_es": "57mm Gun M1 (Late)",
+        "Cp": 0
+    },
+    "60mm_m2": {
+        "name_cn": "60mm M2 迫击炮",
+        "name_en": "60mm M2 Mortar",
+        "name_es": "60mm M2 Mortar",
+        "Cp": 0
+    },
+    "75mm_m1897": {
+        "name_cn": "75mm M1897A4",
+        "name_en": "75mm M1897A4",
+        "name_es": "75mm M1897A4",
+        "Cp": 0
+    },
+    "75mm_m1a1": {
+        "name_cn": "75mm M1A1(M8炮架)",
+        "name_en": "75mm M1A1 (M8 Carriage)",
+        "name_es": "75mm M1A1 (M8 Carriage)",
+        "Cp": 0
+    },
+    "75mm_m3a3": {
+        "name_cn": "75mm M1A1(M3A3炮架)",
+        "name_en": "75mm M1A1 (M3A3 Carriage)",
+        "name_es": "75mm M1A1 (M3A3 Carriage)",
+        "Cp": 0
+    },
+    "76mm_m5_m1": {
+        "name_cn": "3-英寸M5(M1炮架)",
+        "name_en": "3-inch Gun M5 (M1 Carriage)",
+        "name_es": "3-inch Gun M5 (M1 Carriage)",
+        "Cp": 0
+    },
+    "76mm_m5_m6": {
+        "name_cn": "3-英寸M5(M6炮架)",
+        "name_en": "3-inch Gun M5 (M6 Carriage)",
+        "name_es": "3-inch Gun M5 (M6 Carriage)",
+        "Cp": 0
+    },
+    "81mm_m1": {
+        "name_cn": "81mm M1 迫击炮",
+        "name_en": "81mm M1 Mortar",
+        "name_es": "81mm M1 Mortar",
+        "Cp": 0
+    },
+    "81mm_m1_sm": {
+        "name_cn": "81mm M1",
+        "name_en": "81mm Mortar M1",
+        "name_es": "81mm Mortar M1",
+        "Cp": 0
+    },
+    "81mm_m1_mortar_barrage": {
+        "name_cn": "中型迫击炮弹幕",
+        "name_en": "Medium Mortar Barrage",
+        "name_es": "Medium Mortar Barrage",
+        "Cp": 0
+    },
+    "90mm_m1a1": {
+        "name_cn": "90mm M1A1 L/55 高射炮",
+        "name_en": "90mm Gun M1A1 L/55",
+        "name_es": "90mm Gun M1A1 L/55",
+        "Cp": 0
+    },
+    "105mm_m2a1": {
+        "name_cn": "105mm M2A1 L/22 榴弹炮",
+        "name_en": "105mm Howitzer M2A1 L/22",
+        "name_es": "105mm Howitzer M2A1 L/22",
+        "Cp": 0
+    },
+    "105mm_m2a1_smoke_barrage": {
+        "name_cn": "中型烟幕弹幕",
+        "name_en": "Medium Smoke Barrage",
+        "name_es": "Medium Smoke Barrage",
+        "Cp": 0
+    },
+    "105mm_m2a1_artillery_barrage": {
+        "name_cn": "中型火炮弹幕",
+        "name_en": "Medium Artillery Barrage",
+        "name_es": "Medium Artillery Barrage",
+        "Cp": 0
+    },
+    "105mm_m3": {
+        "name_cn": "105mm M3 L/17.9 榴弹炮",
+        "name_en": "105mm Howitzer M3 L/17.9",
+        "name_es": "105mm Howitzer M3 L/17.9",
+        "Cp": 0
+    },
+    "107mm_m2": {
+        "name_cn": "4.2-英寸 M2 迫击炮",
+        "name_en": "4.2-inch M2 Mortar",
+        "name_es": "4.2-inch M2 Mortar",
+        "Cp": 0
+    },
+    "107mm_m2_mortar_barrage": {
+        "name_cn": "重型迫击炮弹幕",
+        "name_en": "Heavy Mortar Barrage",
+        "name_es": "Heavy Mortar Barrage",
+        "Cp": 0
+    },
+    "114mm_m1": {
+        "name_cn": "4.5-英寸 M1 L/43野战炮",
+        "name_en": "4.5-inch Gun M1 L/43",
+        "name_es": "4.5-inch Gun M1 L/43",
+        "Cp": 0
+    },
+    "155mm_gpf_us": {
+        "name_cn": "155mm GPF M1918M1",
+        "name_en": "155mm GPF M1918M1",
+        "name_es": "155mm GPF M1918M1",
+        "Cp": 0
+    },
+    "155mm_m1": {
+        "name_cn": "155mm Howitzer M1 L/23榴弹炮",
+        "name_en": "155mm Howitzer M1 L/23榴弹炮",
+        "name_es": "155mm Howitzer M1 L/23榴弹炮",
+        "Cp": 0
+    },
+    "155mm_m1_artillery_barrage": {
+        "name_cn": "重型火炮弹幕",
+        "name_en": "Heavy Artillery Barrage",
+        "name_es": "Heavy Artillery Barrage",
+        "Cp": 0
+    },
+    "155mm_schneider_us": {
+        "name_cn": "155mm M1917",
+        "name_en": "155mm Howitzer M1917",
+        "name_es": "155mm Howitzer M1917",
+        "Cp": 0
+    },
+    "155mm_m1a1_longtom": {
+        "name_cn": "155mm M1A1 L/45 加农炮",
+        "name_en": "155mm Gun M1A1 L/45",
+        "name_es": "155mm Gun M1A1 L/45",
+        "Cp": 0
+    },
+    "155mm_m1a1_longtom_sm": {
+        "name_cn": "155mm M1A1榴弹炮“长脚汤姆”",
+        "name_en": "155mm Gun M1A1 'Long Tom'",
+        "name_es": "155mm Gun M1A1 'Long Tom'",
+        "Cp": 0
+    },
+    "203mm_m1": {
+        "name_cn": "8-英寸 M1 L/25 榴弹炮",
+        "name_en": "8-inch Howitzer M1 L/25",
+        "name_es": "8-inch Howitzer M1 L/25",
+        "Cp": 0
+    },
+    "cckw": {
+        "name_cn": "通用 CCKW-353(运输)",
+        "name_en": "GMC CCKW-353 (Transport)",
+        "name_es": "GMC CCKW-353 (Transport)",
+        "Cp": 0
+    },
+    "cckw_redball": {
+        "name_cn": "通用 CCKW-353(重机枪)",
+        "name_en": "GMC CCKW (HMG)",
+        "name_es": "GMC CCKW (HMG)",
+        "Cp": 0
+    },
+    "cckw_art_ammo": {
+        "name_cn": "通用 CCKW-353(补给)",
+        "name_en": "GMC CCKW-353 (Supply)",
+        "name_es": "GMC CCKW-353 (Supply)",
+        "Cp": 0
+    },
+    "cckw_engineer": {
+        "name_cn": "通用 CCKW-353(工程)",
+        "name_en": "GMC CCKW-352 (Engineer)",
+        "name_es": "GMC CCKW-352 (Engineer)",
+        "Cp": 0
+    },
+    "cckw_engineer_late": {
+        "name_cn": "通用 CCKW-353(重机枪)(工程)",
+        "name_en": "GMC CCKW-352 (HMG) (Engineer)",
+        "name_es": "GMC CCKW-352 (HMG) (Engineer)",
+        "Cp": 0
+    },
+    "cckw_fuel": {
+        "name_cn": "通用 CCKW-353(油料)",
+        "name_en": "GMC CCKW (Fuel)",
+        "name_es": "GMC CCKW (Fuel)",
+        "Cp": 0
+    },
+    "cckw_inf": {
+        "name_cn": "通用 CCKW-353(运输)",
+        "name_en": "GMC CCKW-353 (Transport)",
+        "name_es": "GMC CCKW-353 (Transport)",
+        "Cp": 0
+    },
+    "inf_crate_usa": {
+        "name_cn": "美国弹药箱",
+        "name_en": "American Ammo Crate",
+        "name_es": "American Ammo Crate",
+        "Cp": 0
+    },
+    "ford_gpa": {
+        "name_cn": "福特 GPA",
+        "name_en": "Ford GPA",
+        "name_es": "Ford GPA",
+        "Cp": 0
+    },
+    "wc51": {
+        "name_cn": "道奇 WC-51",
+        "name_en": "WC-51",
+        "name_es": "WC-51",
+        "Cp": 0
+    },
+    "wc52_50cal": {
+        "name_cn": "道奇 WC-52(机枪)",
+        "name_en": "WC-52 (MG)",
+        "name_es": "WC-52 (MG)",
+        "Cp": 0
+    },
+    "willys_mb": {
+        "name_cn": "威利斯吉普",
+        "name_en": "Willys MB",
+        "name_es": "Willys MB",
+        "Cp": 0
+    },
+    "willys_mb_30cal": {
+        "name_cn": "威利斯吉普(机枪)",
+        "name_en": "Willys MB (MG)",
+        "name_es": "Willys MB (MG)",
+        "Cp": 0
+    },
+    "willys_mb_50cal": {
+        "name_cn": "威利斯吉普(重机枪)",
+        "name_en": "Willys MB (HMG)",
+        "name_es": "Willys MB (HMG)",
+        "Cp": 0
+    },
+    "m6_gmc": {
+        "name_cn": "GMC M6",
+        "name_en": "37mm GMC M6",
+        "name_es": "37mm GMC M6",
+        "Cp": 0
+    },
+    "m8_greyhound": {
+        "name_cn": "M8 灰狗",
+        "name_en": "M8 Greyhound",
+        "name_es": "M8 Greyhound",
+        "Cp": 0
+    },
+    "m8_greyhound_early": {
+        "name_cn": "M8 灰狗(早期型)",
+        "name_en": "M8 Greyhound (Early)",
+        "name_es": "M8 Greyhound (Early)",
+        "Cp": 0
+    },
+    "m2_halftrack": {
+        "name_cn": "M2",
+        "name_en": "M2 Halftrack",
+        "name_es": "M2 Halftrack",
+        "Cp": 0
+    },
+    "m2_halftrack_at": {
+        "name_cn": "M2",
+        "name_en": "M2 Halftrack",
+        "name_es": "M2 Halftrack",
+        "Cp": 0
+    },
+    "m2a1_halftrack": {
+        "name_cn": "M2A1",
+        "name_en": "M2A1 Halftrack",
+        "name_es": "M2A1 Halftrack",
+        "Cp": 0
+    },
+    "m3_halftrack": {
+        "name_cn": "M3",
+        "name_en": "M3 Halftrack",
+        "name_es": "M3 Halftrack",
+        "Cp": 0
+    },
+    "m3_halftrack_inf": {
+        "name_cn": "M3",
+        "name_en": "M3 Halftrack",
+        "name_es": "M3 Halftrack",
+        "Cp": 0
+    },
+    "m3_halftrack_inf_late": {
+        "name_cn": "M3",
+        "name_en": "M3",
+        "name_es": "M3",
+        "Cp": 0
+    },
+    "m3_stuart_early": {
+        "name_cn": "M3 斯图亚特(早期型)",
+        "name_en": "M3 Stuart (Early)",
+        "name_es": "M3 Stuart (Early)",
+        "Cp": 0
+    },
+    "m3_gmc": {
+        "name_cn": "75mm M3 运载车",
+        "name_en": "75mm GMC M3",
+        "name_es": "75mm GMC M3",
+        "Cp": 0
+    },
+    "m3a1_gmc": {
+        "name_cn": "75mm M3A1 运载车",
+        "name_en": "75mm GMC M3A1",
+        "name_es": "75mm GMC M3A1",
+        "Cp": 0
+    },
+    "m3_stuart_late": {
+        "name_cn": "M3 斯图亚特(后期型)",
+        "name_en": "M3 Stuart (Late)",
+        "name_es": "M3 Stuart (Late)",
+        "Cp": 0
+    },
+    "m3_lee": {
+        "name_cn": "M3 李",
+        "name_en": "M3 Lee",
+        "name_es": "M3 Lee",
+        "Cp": 0
+    },
+    "m3a1_stuart": {
+        "name_cn": "M3A1 斯图亚特",
+        "name_en": "M3A1 Stuart",
+        "name_es": "M3A1 Stuart",
+        "Cp": 0
+    },
+    "m3a1_commander": {
+        "name_cn": "M3A1(侦察指挥车)",
+        "name_en": "M3A1 Scout Car (Command)",
+        "name_es": "M3A1 Scout Car (Command)",
+        "Cp": 0
+    },
+    "m3a1_transport": {
+        "name_cn": "M3A1 侦察车(运输)",
+        "name_en": "M3A1 Scout Car (Transport)",
+        "name_es": "M3A1 Scout Car (Transport)",
+        "Cp": 0
+    },
+    "m3a1_halftrack": {
+        "name_cn": "M3A1",
+        "name_en": "M3A1 Halftrack",
+        "name_es": "M3A1 Halftrack",
+        "Cp": 0
+    },
+    "m3a1_halftrack_inf": {
+        "name_cn": "M3A1",
+        "name_en": "M3A1 Halftrack",
+        "name_es": "M3A1 Halftrack",
+        "Cp": 0
+    },
+    "m3a1_halftrack_inf_late": {
+        "name_cn": "M3A1",
+        "name_en": "M3A1 Halftrack",
+        "name_es": "M3A1 Halftrack",
+        "Cp": 0
+    },
+    "m4_75_early": {
+        "name_cn": "谢尔曼M4(早期型)",
+        "name_en": "M4 (Early)",
+        "name_es": "M4 (Early)",
+        "Cp": 0
+    },
+    "m4_75_early_armor": {
+        "name_cn": "谢尔曼M4(早期型)(附加装甲)",
+        "name_en": "M4 (Early) (Armor)",
+        "name_es": "M4 (Early) (Armor)",
+        "Cp": 0
+    },
+    "m4_75_late": {
+        "name_cn": "谢尔曼M4(后期型)",
+        "name_en": "M4 (Late)",
+        "name_es": "M4 (Late)",
+        "Cp": 0
+    },
+    "m4_105": {
+        "name_cn": "谢尔曼M4(105)",
+        "name_en": "M4(105)",
+        "name_es": "M4(105)",
+        "Cp": 0
+    },
+    "m4_mortar_carrier": {
+        "name_cn": "81mm M4 运载车",
+        "name_en": "81mm Mortar Carrier M4",
+        "name_es": "81mm Mortar Carrier M4",
+        "Cp": 0
+    },
+    "m4a1_75_early": {
+        "name_cn": "谢尔曼M4A1(早期)",
+        "name_en": "M4A1 (Early DV)",
+        "name_es": "M4A1 (Early DV)",
+        "Cp": 0
+    },
+    "m4a1_75_mid": {
+        "name_cn": "谢尔曼M4A1(中期型)",
+        "name_en": "M4A1 (Mid)",
+        "name_es": "M4A1 (Mid)",
+        "Cp": 0
+    },
+    "m4a1_75_mid_armor": {
+        "name_cn": "谢尔曼M4A1(中期型)(附加装甲)",
+        "name_en": "M4A1 (Mid) (Armor)",
+        "name_es": "M4A1 (Mid) (Armor)",
+        "Cp": 0
+    },
+    "m4a1_75_late": {
+        "name_cn": "谢尔曼M4A1(后期型)",
+        "name_en": "M4A1 (Late)",
+        "name_es": "M4A1 (Late)",
+        "Cp": 0
+    },
+    "m4a1_75_dd": {
+        "name_cn": "谢尔曼M4A1(水陆两栖)",
+        "name_en": "M4A1 (DD)",
+        "name_es": "M4A1 (DD)",
+        "Cp": 0
+    },
+    "m4a1_76w": {
+        "name_cn": "谢尔曼M4A1(76)W(早期型)",
+        "name_en": "M4A1(76)W (Early)",
+        "name_es": "M4A1(76)W (Early)",
+        "Cp": 0
+    },
+    "m4a1_76w_mid": {
+        "name_cn": "谢尔曼M4A1(76)W",
+        "name_en": "M4A1(76)W",
+        "name_es": "M4A1(76)W",
+        "Cp": 0
+    },
+    "m4a1_mortar_carrier": {
+        "name_cn": "81mm M4A1 运载车",
+        "name_en": "81mm Mortar Carrier M4A1",
+        "name_es": "81mm Mortar Carrier M4A1",
+        "Cp": 0
+    },
+    "m4a3_75_early": {
+        "name_cn": "谢尔曼M4A3 (早期型)",
+        "name_en": "M4A3 (Early)",
+        "name_es": "M4A3 (Early)",
+        "Cp": 0
+    },
+    "m4a3_75_late": {
+        "name_cn": "谢尔曼M4A3 (后期型)</c>",
+        "name_en": "M4A3 (Late)",
+        "name_es": "M4A3 (Late)",
+        "Cp": 0
+    },
+    "m4a3_75w_early": {
+        "name_cn": "谢尔曼M4A3(75)W (早期型)",
+        "name_en": "M4A3(75)W (Early)",
+        "name_es": "M4A3(75)W (Early)",
+        "Cp": 0
+    },
+    "m4a3_75w": {
+        "name_cn": "谢尔曼M4A3(75)W (后期型)",
+        "name_en": "M4A3(75)W (Late)",
+        "name_es": "M4A3(75)W (Late)",
+        "Cp": 0
+    },
+    "m4a3_75w_e4_5": {
+        "name_cn": "谢尔曼M4A3(75)W 'E4-5'(火焰喷射器)",
+        "name_en": "M4A3(75)W 'E4-5' (Flame)",
+        "name_es": "M4A3(75)W 'E4-5' (Flame)",
+        "Cp": 0
+    },
+    "m4a3_76w": {
+        "name_cn": "谢尔曼M4A3(76)W",
+        "name_en": "M4A3(76)W",
+        "name_es": "M4A3(76)W",
+        "Cp": 0
+    },
+    "m4a3_76w_hvss": {
+        "name_cn": "谢尔曼M4A3(76)W HVSS悬挂",
+        "name_en": "M4A3(76)W HVSS",
+        "name_es": "M4A3(76)W HVSS",
+        "Cp": 0
+    },
+    "m4a3_76w_field1": {
+        "name_cn": "谢尔曼M4A3(76)W HVSS悬挂“野战改装”",
+        "name_en": "M4A3(76)W HVSS 'Field mod'",
+        "name_es": "M4A3(76)W HVSS 'Field mod'",
+        "Cp": 0
+    },
+    "m4a3_76w_field2": {
+        "name_cn": "谢尔曼M4A3(76)W HVSS悬挂“野战改装”",
+        "name_en": "M4A3(76)W HVSS 'Field mod'",
+        "name_es": "M4A3(76)W HVSS 'Field mod'",
+        "Cp": 0
+    },
+    "m4a3_76w_field3": {
+        "name_cn": "谢尔曼M4A3(76)W HVSS悬挂“野战改装”",
+        "name_en": "M4A3(76)W HVSS 'Field mod'",
+        "name_es": "M4A3(76)W HVSS 'Field mod'",
+        "Cp": 0
+    },
+    "m4a3_105": {
+        "name_cn": "谢尔曼M4A3(105mm火炮)",
+        "name_en": "M4A3(105)",
+        "name_es": "M4A3(105)",
+        "Cp": 0
+    },
+    "m4a3_105_hvss": {
+        "name_cn": "谢尔曼M4A3(105) HVSS悬挂",
+        "name_en": "M4A3(105) HVSS",
+        "name_es": "M4A3(105) HVSS",
+        "Cp": 0
+    },
+    "m4a3_calliope": {
+        "name_cn": "谢尔曼M4A3(75)W “T34管风琴”",
+        "name_en": "M4A3(75)W 'T34 Calliope'",
+        "name_es": "M4A3(75)W 'T34 Calliope'",
+        "Cp": 0
+    },
+    "m4a3e2_75": {
+        "name_cn": "M4A3E2(75)W“巨无霸”",
+        "name_en": "M4A3E2(75)W",
+        "name_es": "M4A3E2(75)W",
+        "Cp": 0
+    },
+    "m4a3e2_76": {
+        "name_cn": "M4A3E2(76)W“巨无霸”",
+        "name_en": "M4A3E2(76)W",
+        "name_es": "M4A3E2(76)W",
+        "Cp": 0
+    },
+    "m5a1_stuart": {
+        "name_cn": "M5A1 斯图亚特",
+        "name_en": "M5A1 Stuart",
+        "name_es": "M5A1 Stuart",
+        "Cp": 0
+    },
+    "m5a1_stuart_late": {
+        "name_cn": "M5A1 斯图亚特(后期型)",
+        "name_en": "M5A1 Stuart (Late)",
+        "name_es": "M5A1 Stuart (Late)",
+        "Cp": 0
+    },
+    "m5_hst": {
+        "name_cn": "M5 高速拖车(重机枪)",
+        "name_en": "M5 High-Speed Tractor (HMG)",
+        "name_es": "M5 High-Speed Tractor (HMG)",
+        "Cp": 0
+    },
+    "m7_hmc": {
+        "name_cn": "M7“牧师”",
+        "name_en": "105mm HMC M7",
+        "name_es": "105mm HMC M7",
+        "Cp": 0
+    },
+    "m7_hmc_sm": {
+        "name_cn": "M7“牧师”",
+        "name_en": "105mm HMC M7",
+        "name_es": "105mm HMC M7",
+        "Cp": 0
+    },
+    "m7b1_hmc": {
+        "name_cn": "M7B1“牧师”",
+        "name_en": "105mm HMC M7B1",
+        "name_es": "105mm HMC M7B1",
+        "Cp": 0
+    },
+    "m8_hmc": {
+        "name_cn": "M8",
+        "name_en": "75mm HMC M8",
+        "name_es": "75mm HMC M8",
+        "Cp": 0
+    },
+    "m10_gmc": {
+        "name_cn": "M10“狼獾”",
+        "name_en": "3-inch GMC M10",
+        "name_es": "3-inch GMC M10",
+        "Cp": 0
+    },
+    "m10_gmc_early": {
+        "name_cn": "M10“狼獾”",
+        "name_en": "3-inch GMC M10",
+        "name_es": "3-inch GMC M10",
+        "Cp": 0
+    },
+    "m10_gmc_late": {
+        "name_cn": "M10“狼獾”(后期型)",
+        "name_en": "3-inch GMC M10 (Late)</c>",
+        "name_es": "3-inch GMC M10 (Late)</c>",
+        "Cp": 0
+    },
+    "m12_gmc": {
+        "name_cn": "M12",
+        "name_en": "155mm GMC M12",
+        "name_es": "155mm GMC M12",
+        "Cp": 0
+    },
+    "m12_gmc_sm": {
+        "name_cn": "M12",
+        "name_en": "155mm GMC M12",
+        "name_es": "155mm GMC M12",
+        "Cp": 0
+    },
+    "m13_mgmc": {
+        "name_cn": "M13",
+        "name_en": "MGMC M13",
+        "name_es": "MGMC M13",
+        "Cp": 0
+    },
+    "m15a1_cgmc": {
+        "name_cn": "M15A1",
+        "name_en": "CGMC M15A1",
+        "name_es": "CGMC M15A1",
+        "Cp": 0
+    },
+    "m16_mgmc": {
+        "name_cn": "M16",
+        "name_en": "MGMC M16",
+        "name_es": "MGMC M16",
+        "Cp": 0
+    },
+    "m18_hellcat": {
+        "name_cn": "M18“地狱猫”",
+        "name_en": "76mm GMC M18 'Hellcat'",
+        "name_es": "76mm GMC M18 'Hellcat'",
+        "Cp": 0
+    },
+    "m18_hellcat_late": {
+        "name_cn": "M18“地狱猫” (后期型)",
+        "name_en": "76mm GMC M18 'Hellcat' (Late)",
+        "name_es": "76mm GMC M18 'Hellcat' (Late)",
+        "Cp": 0
+    },
+    "m20": {
+        "name_cn": "M20",
+        "name_en": "M20",
+        "name_es": "M20",
+        "Cp": 0
+    },
+    "m21_mortar_carrier": {
+        "name_cn": "81mm M21 运载车",
+        "name_en": "81mm Mortar Carrier M21",
+        "name_es": "81mm Mortar Carrier M21",
+        "Cp": 0
+    },
+    "m24_chaffee": {
+        "name_cn": "M24“霞飞”",
+        "name_en": "M24 Chaffee",
+        "name_es": "M24 Chaffee",
+        "Cp": 0
+    },
+    "m26_pershing": {
+        "name_cn": "M26“潘兴”",
+        "name_en": "M26 Pershing",
+        "name_es": "M26 Pershing",
+        "Cp": 0
+    },
+    "m36_gmc": {
+        "name_cn": "M36",
+        "name_en": "90mm GMC M36",
+        "name_es": "90mm GMC M36",
+        "Cp": 0
+    },
+    "m36_gmc_late": {
+        "name_cn": "M36",
+        "name_en": "90mm GMC M36",
+        "name_es": "90mm GMC M36",
+        "Cp": 0
+    },
+    "m36_gmc_t33": {
+        "name_cn": "M36",
+        "name_en": "90mm GMC M36",
+        "name_es": "90mm GMC M36",
+        "Cp": 0
+    },
+    "m36b1_gmc": {
+        "name_cn": "M36B1",
+        "name_en": "90mm GMC M36B1",
+        "name_es": "90mm GMC M36B1",
+        "Cp": 0
+    },
+    "m36b1_gmc_late": {
+        "name_cn": "M36B1",
+        "name_en": "90mm GMC M36B1",
+        "name_es": "90mm GMC M36B1",
+        "Cp": 0
+    },
+    "m36b1_gmc_t33": {
+        "name_cn": "M36B1",
+        "name_en": "90mm GMC M36B1",
+        "name_es": "90mm GMC M36B1",
+        "Cp": 0
+    },
+    "t19_hmc": {
+        "name_cn": "105mm T19 运载车",
+        "name_en": "105mm HMC T19",
+        "name_es": "105mm HMC T19",
+        "Cp": 0
+    },
+    "t26e4": {
+        "name_cn": "T26E4“超级潘兴”",
+        "name_en": "T26E4 'Super Pershing'",
+        "name_es": "T26E4 'Super Pershing'",
+        "Cp": 0
+    },
+    "t30_hmc": {
+        "name_cn": "75mm T30 运载车",
+        "name_en": "75mm HMC T30",
+        "name_es": "75mm HMC T30",
+        "Cp": 0
+    },
+    "lvt4": {
+        "name_cn": "LVT-4",
+        "name_en": "LVT-4",
+        "name_es": "LVT-4",
+        "Cp": 0
+    },
+    "sdkfz6_ammo": {
+        "name_cn": "Sd.Kfz 6 (补给)",
+        "name_en": "Sd.Kfz 6 (Supply)",
+        "name_es": "Sd.Kfz 6 (Supply)",
+        "Cp": 0
+    }
 }

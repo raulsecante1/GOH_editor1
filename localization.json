@@ -1,0 +1,87 @@
+{
+  "msg_save_success": {
+    "en": "Save successful!",
+    "zh": "保存成功！",
+    "es": "¡Guardado exitoso!"
+  },
+  "msg_save_error": {
+    "en": "Error saving the file.",
+    "zh": "保存文件时出错。",
+    "es": "Error al guardar el archivo."
+  },
+  "msg_export_success": {
+    "en": "Layout saved to {path}",
+    "zh": "布局已保存到 {path}",
+    "es": "Diseño guardado en {path}"
+  },
+  "msg_export_error": {
+    "en": "Export failed",
+    "zh": "导出失败",
+    "es": "Error al exportar"
+  },
+  "msg_import_success": {
+    "en": "Loaded {path}",
+    "zh": "已载入 {path}",
+    "es": "Cargado {path}"
+  },
+  "msg_import_error": {
+    "en": "Import failed",
+    "zh": "导入失败",
+    "es": "Error al importar"
+  },
+  "btn_save_order": {
+    "en": "Save Order",
+    "zh": "保存顺序",
+    "es": "Guardar Orden"
+  },
+  "btn_export_layout": {
+    "en": "Export Layout",
+    "zh": "导出布局",
+    "es": "Exportar Diseño"
+  },
+  "btn_import_layout": {
+    "en": "Import Layout",
+    "zh": "导入布局",
+    "es": "Importar Diseño"
+  },
+  "tab_stage_1": {
+    "en": "Stage 1",
+    "zh": "阶段一",
+    "es": "Etapa 1"
+  },
+  "tab_stage_2": {
+    "en": "Stage 2",
+    "zh": "阶段二",
+    "es": "Etapa 2"
+  },
+  "tab_stage_3": {
+    "en": "Stage 3",
+    "zh": "阶段三",
+    "es": "Etapa 3"
+  },
+  "tab_stage_4": {
+    "en": "Stage 4",
+    "zh": "阶段四",
+    "es": "Etapa 4"
+  },
+  "tab_stage_5": {
+    "en": "Stage 5",
+    "zh": "阶段五",
+    "es": "Etapa 5"
+  },
+  "tab_stage_specials": {
+    "en": "Special Stage",
+    "zh": "特殊阶段",
+    "es": "Etapa Especial"
+  },
+  "window_title": {
+    "en": "Campaign Editor",
+    "zh": "战役库编辑器",
+    "es": "Editor de Campaña"
+  },
+  "label_language": {
+    "en": "Language",
+    "zh": "语言",
+    "es": "Idioma"
+  }
+}
